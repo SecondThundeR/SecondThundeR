@@ -20,7 +20,7 @@
   - **CSS**
   - **JavaScript**
     - **Electron, React** *(After fully learning JavaScript)*
-  - **UI/UX Design Basics** *(Make a great step in using Figma and Sketch)*
+  - **UI/UX Design Basics** *(To make a great step in using Figma and Sketch)*
 - 🛠 I'm currently have such projects like:
   - **[Scroball X](https://github.com/SecondThundeR/Scroball-X)** *(My own fork of [Scroball](https://github.com/peterjosling/scroball) by Peter Josling, where I made some changes to provide Material Theme 2, Adless UI, Dark Theme and many other visual improvements)*
 
@@ -35,7 +35,7 @@
   - *List is not full and will be changed in future*
 
 - 📫 But the best way you can reach me...
-  - ✉ **[By Email - awayfromgalaxy@gmail.com)** *(Preferably I go through emails when I receive notifications)*
+  - 📧 **[By Email - awayfromgalaxy@gmail.com)** *(Preferably I go through emails when I receive notifications)*
   - ✈ **[In Telegram](https://t.me/secondthunder)** *(Don't be shy to write to me first)*
   - 🕖 My active time: **From 10 A.M. till 1 A.M.**
 
