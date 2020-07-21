@@ -30,8 +30,8 @@
   - **[Twitter](https://twitter.com/scndthndr)** *(Don't even try to find an amazing tweets here. I'm using Twitter more for lurking)*
   - **[Instagram](https://instagram.com/AwayFromGalaxy)** *(Here I'm posting my pictures (Not regularly but sometimes))*
   - **[VK](https://vk.com/secondthunder)** *(My page in VK, Russian social site)*
-  - **[Last.fm](https://last.fm/user/AwayFromGalaxy)**
-  - **[Spotify](https://open.spotify.com/user/secondthunder)**
+  - **[Last.fm](https://last.fm/user/AwayFromGalaxy)** *(Here you can find what I'm listening right now and explore what I have been listening to during the entire creation of my account)*
+  - **[Spotify](https://open.spotify.com/user/secondthunder)** *(Just my social page on Spotify. Feel free to follow me and listen to my self curated playlist at the bottom of the page)*
   - *List is not full and will be changed in future*
 
 - 📫 But the best way you can reach me...
