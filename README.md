@@ -9,6 +9,7 @@
 - 🏠 I'm currently living in **Gomel, Belarus** *(My hometown)*
   - 🚄 I dream of moving to **St. Petersburg, Russia**
 - 🏫 I'm currently **graduated from high school and preparing to enter university**
+- 🗣 My primary language is **Russian**, but in most cases I can speak **English**
 - 💕 I am very passionate about **music** and **mobile photography**, as well as **creating beautiful websites**
 
 <h3 align="center">Some info about my activity</h3>
