@@ -1,6 +1,7 @@
 <h3 align="center">Welcome to my Github Page! 👋</h3>
 
----
+***
+
 <h3 align="center">Some info about me</h3>
 
 - 🙋‍♂️ My name is **Vladislav** *(Владислав)*
@@ -40,6 +41,6 @@
   - ✈ **[In Telegram](https://t.me/secondthunder)** *(Don't be shy to write to me first)*
   - 🕖 My active time: **From 10 A.M. till 1 A.M.**
 
----
+***
 
 <h3 align="center">Well, my Github page isn't full of big and great projects, but this is only a beginning of my wonderful journey to the world of programming 🎆</h3>
