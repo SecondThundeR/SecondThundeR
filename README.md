@@ -9,23 +9,26 @@
    - 📆 I celebrate my birthday on **June 22**
 - 🏠 I'm currently living in **Gomel, Belarus** *(My hometown)*
   - 🚄 I dream of moving to **St. Petersburg, Russia**
-- 🏫 I'm currently **graduated from high school and preparing to enter university**
+- 🏫 I am currently studying at **Gomel State University**
+  - **Faculty:** Mathematics and Programming Technologies
+  - **Specialty:** Applied Informatics
 - 🗣 My primary language is **Russian**, but in most cases I can speak **English**
 - 💕 I am very passionate about **music** and **mobile photography**, as well as **creating beautiful websites** and **interesting design projects**
 
 <h3 align="center">Some info about my activity</h3>
 
-- 🔭 I’m currently not working on any projects and not learning any other languages *(I on some sort of vacation right now)*
+- 🔭 I’m currently not working on any projects
+- 📚 I'm currently learning:
+  - **JavaScript**
+  - **Python + Ren'Py** *(Yep, I was inspired by DDLC in 2020 -_-)*
 - 🌱 I’m want to learn:
   - **HTML** *(Mostly for quickly creating layouts)*
   - **CSS** *(Mostly for quickly styling new layouts)*
-  - **JavaScript**
-    - **After fully learning basic Front-End stuff**
-      - **Bootstrap** *(Simple and quick page making (probably))*
-      - **TypeScript** *(To enhance JavaScript power)*
-      - **Electron, React, Angular.js, Vue** *(For making great cross platform and web apps)*
+  - **JavaScript Libraries**
+    - **Bootstrap** *(Simple and quick page making (probably))*
+    - **TypeScript** *(To enhance JavaScript power)*
+    - **Electron, React, Angular.js, Vue** *(For making great cross platform and web apps)*
   - **UI/UX Basics** *(To make a great step in using Figma and Sketch)*
-  - **Python + Ren'Py** *(Yep, I was inspired by DDLC in 2020 -_-)*
 - 🛠 I'm currently have such projects:
   - [**Scroball X**](https://github.com/SecondThundeR/Scroball-X) *(My own fork of [Scroball](https://github.com/peterjosling/scroball) by Peter Josling, where I made some changes to provide Material Theme 2, Adless UI, Dark Theme and many other visual improvements)*
   - [**My Landing Page**](https://secondthunder.github.io) *(Despite the fact that the site is ready, I am constantly adding something new and interesting)*
@@ -41,6 +44,7 @@
   - **[VK](https://vk.com/secondthunder)** *(My page in VK, Russian social site)*
   - **[Last.fm](https://last.fm/user/AwayFromGalaxy)** *(Here you can find what I'm listening right now and explore what I have been listening to during the entire creation of my account)*
   - **[Spotify](https://open.spotify.com/user/secondthunder)** *(Just my social page on Spotify. Feel free to follow me and listen to my self curated playlist at the bottom of the page)*
+  - **Discord : SecondThundeR#0001** *(Place where I am most of the time)*
   - *The list is not over yet (Perhaps it will be updated when I remember some more links.)*
 
 - 📫 The best way you can reach me:
