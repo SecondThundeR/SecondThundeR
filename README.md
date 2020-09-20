@@ -19,15 +19,17 @@
 
 - 🔭 I’m currently not working on any projects
 - 📚 I'm currently learning:
-  - **JavaScript**
-  - **Python + Ren'Py** *(Yep, I was inspired by DDLC in 2020 -_-)*
+  - **Pascal** *(Not a personal choice, but my university requirement)*
+  - **C++** *(Was impressed by the flexibility and nativeness of the language)*
 - 🌱 I’m want to learn:
   - **HTML** *(Mostly for quickly creating layouts)*
   - **CSS** *(Mostly for quickly styling new layouts)*
+  - **JavaScript** *(Mostly for creating interactive pages)*
   - **JavaScript Libraries**
     - **Bootstrap** *(Simple and quick page making (probably))*
     - **TypeScript** *(To enhance JavaScript power)*
     - **Electron, React, Angular.js, Vue** *(For making great cross platform and web apps)*
+  - **Python + Ren'Py** *(Yep, I was inspired by DDLC in 2020 -_- and want to create some VN)*
   - **UI/UX Basics** *(To make a great step in using Figma and Sketch)*
 - 🛠 I'm currently have such projects:
   - [**Scroball X**](https://github.com/SecondThundeR/Scroball-X) *(My own fork of [Scroball](https://github.com/peterjosling/scroball) by Peter Josling, where I made some changes to provide Material Theme 2, Adless UI, Dark Theme and many other visual improvements)*
