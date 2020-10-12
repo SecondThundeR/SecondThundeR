@@ -14,14 +14,17 @@
   - **Specialty:** Applied Informatics
 - 🗣 My primary language is **Russian**, but in most cases I can speak **English**
 - 💕 I am very passionate about **music** and **mobile photography**, as well as **creating beautiful websites** and **interesting design projects**
+- 👨‍🎓 Joined the **Github Student Developer Pack** on **October 1**
 
 <h3 align="center">Some info about my activity</h3>
 
 - 🔭 I’m currently not working on any projects
 - 📚 I'm currently learning:
   - **Pascal** *(Not a personal choice, but my university requirement)*
+  - **Responsive Design** *(Great step to make landing look even better)*
+- ⌛ Currently set on hold
   - **C++** *(Was impressed by the flexibility and nativeness of the language)*
-- 🌱 I’m want to learn:
+- 🌱 I’m want to learn in future:
   - **HTML** *(Mostly for quickly creating layouts)*
   - **CSS** *(Mostly for quickly styling new layouts)*
   - **JavaScript** *(Mostly for creating interactive pages)*
@@ -30,7 +33,6 @@
     - **TypeScript** *(To enhance JavaScript power)*
     - **Electron, React, Angular.js, Vue** *(For making great cross platform and web apps)*
   - **Python + Ren'Py** *(Yep, I was inspired by DDLC in 2020 -_- and want to create some VN)*
-  - **UI/UX Basics** *(To make a great step in using Figma and Sketch)*
 - 🛠 I'm currently have such projects:
   - [**Scroball X**](https://github.com/SecondThundeR/Scroball-X) *(My own fork of [Scroball](https://github.com/peterjosling/scroball) by Peter Josling, where I made some changes to provide Material Theme 2, Adless UI, Dark Theme and many other visual improvements)*
   - [**My Landing Page**](https://secondthunder.github.io) *(Despite the fact that the site is ready, I am constantly adding something new and interesting)*
@@ -52,7 +54,7 @@
 - 📫 The best way you can reach me:
   - 📧 **Email - awayfromgalaxy@gmail.com** *(Checking regularly per day)*
   - ✈ **[Telegram](https://t.me/secondthunder)** *(Don't be shy to write to me first)*
-  - 🕖 My active time: **From 10 A.M. till 1 A.M.**
+  - 🕖 My active time: **From 9 A.M. till 11:30 P.M.**
 
 ***
 
