@@ -34,11 +34,16 @@
     - **Electron, React, Angular.js, Vue** *(For making great cross platform and web apps)*
   - **Python + Ren'Py** *(Yep, I was inspired by DDLC in 2020 -_- and want to create some VN)*
 - 🛠 I'm currently have such projects:
-  - [**Scroball X**](https://github.com/SecondThundeR/Scroball-X) *(My own fork of [Scroball](https://github.com/peterjosling/scroball) by Peter Josling, where I made some changes to provide Material Theme 2, Adless UI, Dark Theme and many other visual improvements)*
-  - [**My Landing Page**](https://secondthunder.github.io) *(Despite the fact that the site is ready, I am constantly adding something new and interesting)*
+  - [**Scroball X**](https://github.com/SecondThundeR/Scroball-X) — Fork of [Scroball](https://github.com/peterjosling/scroball) by Peter Josling, where I made some changes to provide Material Theme 2, Adless UI, Dark Theme and many other visual improvements
+  - [**DokiDoki-RenPy**](https://https://github.com/SecondThundeR/DokiDoki-RenPy) — Decompile of Doki Doki Literature Club for internal use in RenPy Launcher, e.g. modification or self-learning *(Because code of DDLC is awesome, even in our time)*
+    - But, in the vastness of Github is full of decompiled code of this game, what is the advantage of your repository?
+      - To begin with, I organized the necessary files and deleted unnecessary folders that are not used when interacting with the game in RenPy
+      - The code was formatted for best readability when editing
+      - And...here's a pretty nice README ;)
+  - [**My Landing Page**](https://secondthunder.github.io) — Despite the fact that the site is ready, I am constantly adding something new and interesting
   - **Figma Projects:**
-    - [**OrbitReader**](https://www.figma.com/file/GsnLhc0IVJnofPt6yw3JZW/Orbit) *(A quick sketch for one unreleased app)*
-    - [**Project Delta**](https://www.figma.com/file/Sk8zK5CWB7XjqRE0Uq5T04/Project-Delta?node-id=7%3A3917) *(Sketch and ideas for interesting player design)*
+    - [**OrbitReader**](https://www.figma.com/file/GsnLhc0IVJnofPt6yw3JZW/Orbit) — A quick sketch for one unreleased app
+    - [**Project Delta**](https://www.figma.com/file/Sk8zK5CWB7XjqRE0Uq5T04/Project-Delta?node-id=7%3A3917) — Sketch and ideas for interesting player design
 
 <h3 align="center">Some info about contacting me</h3>
 
