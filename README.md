@@ -35,7 +35,7 @@
   - **Python + Ren'Py** *(Yep, I was inspired by DDLC in 2020 -_- and want to create some VN)*
 - 🛠 I'm currently have such projects:
   - [**Scroball X**](https://github.com/SecondThundeR/Scroball-X) — Fork of [Scroball](https://github.com/peterjosling/scroball) by Peter Josling, where I made some changes to provide Material Theme 2, Adless UI, Dark Theme and many other visual improvements
-  - [**DokiDoki-RenPy**](https://https://github.com/SecondThundeR/DokiDoki-RenPy) — Decompile of Doki Doki Literature Club for internal use in RenPy Launcher, e.g. modification or self-learning *(Because code of DDLC is awesome, even in our time)*
+  - [**DokiDoki-RenPy**](https://github.com/SecondThundeR/DokiDoki-RenPy) — Decompile of Doki Doki Literature Club for internal use in RenPy Launcher, e.g. modification or self-learning *(Because code of DDLC is awesome, even in our time)*
     - But, in the vastness of Github is full of decompiled code of this game, what is the advantage of your repository?
       - To begin with, I organized the necessary files and deleted unnecessary folders that are not used when interacting with the game in RenPy
       - The code was formatted for best readability when editing
