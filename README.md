@@ -20,19 +20,18 @@
 
 - 🔭 I’m currently not working on any projects
 - 📚 I'm currently learning:
+  - **Python** *(Great language to start with)*
+  - **SQL** *(It will never be superfluous to manage databases)*
   - **Pascal** *(Not a personal choice, but my university requirement)*
-  - **Responsive Design** *(Great step to make landing look even better)*
 - ⌛ Currently set on hold
   - **C++** *(Was impressed by the flexibility and nativeness of the language)*
 - 🌱 I’m want to learn in future:
-  - **HTML** *(Mostly for quickly creating layouts)*
-  - **CSS** *(Mostly for quickly styling new layouts)*
+  - **HTML + CSS (Intermediate)** *(Mostly for quickly creating great websites)*
   - **JavaScript** *(Mostly for creating interactive pages)*
   - **JavaScript Libraries**
-    - **Bootstrap** *(Simple and quick page making (probably))*
     - **TypeScript** *(To enhance JavaScript power)*
     - **Electron, React, Angular.js, Vue** *(For making great cross platform and web apps)*
-  - **Python + Ren'Py** *(Yep, I was inspired by DDLC in 2020 -_- and want to create some VN)*
+  - **Ren'Py** *(Yep, I was inspired by DDLC in 2020 -_- and want to create some VN)*
 - 🛠 I'm currently have such projects:
   - [**Scroball X**](https://github.com/SecondThundeR/Scroball-X) — Fork of [Scroball](https://github.com/peterjosling/scroball) by Peter Josling, where I made some changes to provide Material Theme 2, Adless UI, Dark Theme and many other visual improvements
   - [**DokiDoki-RenPy**](https://github.com/SecondThundeR/DokiDoki-RenPy) — Decompile of Doki Doki Literature Club for internal use in RenPy Launcher, e.g. modification or self-learning *(Because code of DDLC is awesome, even in our time)*
