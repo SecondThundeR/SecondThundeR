@@ -21,7 +21,7 @@
 - 🔭 I’m currently not working on any projects
 - 📚 I'm currently learning:
   - **Python** *(Great language to start with)*
-  - **JavaScript + Node.ja** *(Currently for building powerful bot for Discord)*
+  - **JavaScript + Node.js** *(Currently for building powerful bot for Discord)*
   - **Pascal** *(Not a personal choice, but my university requirement)*
 - ⌛ Currently set on hold
   - **C++** *(Was impressed by the flexibility and nativeness of the language)*
