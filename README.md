@@ -21,13 +21,13 @@
 - 🔭 I’m currently not working on any projects
 - 📚 I'm currently learning:
   - **Python** *(Great language to start with)*
-  - **SQL** *(It will never be superfluous to manage databases)*
+  - **JavaScript + Node.ja** *(Currently for building powerful bot for Discord)*
   - **Pascal** *(Not a personal choice, but my university requirement)*
 - ⌛ Currently set on hold
   - **C++** *(Was impressed by the flexibility and nativeness of the language)*
+  - **SQL** *(It will never be superfluous to manage databases)*
 - 🌱 I’m want to learn in future:
   - **HTML + CSS (Intermediate)** *(Mostly for quickly creating great websites)*
-  - **JavaScript** *(Mostly for creating interactive pages)*
   - **JavaScript Libraries**
     - **TypeScript** *(To enhance JavaScript power)*
     - **Electron, React, Angular.js, Vue** *(For making great cross platform and web apps)*
