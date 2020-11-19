@@ -2,7 +2,7 @@
 
 ***
 
-<h3 align="center">Some info about me</h3>
+<details><summary><strong>Some info about me</strong></summary><p>
 
 - 🙋‍♂️ My name is **Vladislav** *(Владислав)*
 -  🎂 I'm **17** years old
@@ -16,7 +16,9 @@
 - 💕 I am very passionate about **music** and **mobile photography**, as well as **creating beautiful websites** and **interesting design projects**
 - 👨‍🎓 Joined the **Github Student Developer Pack** on **October 1**
 
-<h3 align="center">Some info about my activity</h3>
+</p></details>
+
+<details><summary><strong>Some info about my activity</strong></summary><p>
 
 - 🔭 I’m currently not working on any projects
 - 📚 I'm currently learning:
@@ -44,7 +46,9 @@
     - [**OrbitReader**](https://www.figma.com/file/GsnLhc0IVJnofPt6yw3JZW/Orbit) — A quick sketch for one unreleased app
     - [**Project Delta**](https://www.figma.com/file/Sk8zK5CWB7XjqRE0Uq5T04/Project-Delta?node-id=7%3A3917) — Sketch and ideas for interesting player design
 
-<h3 align="center">Some info about contacting me</h3>
+</p></details>
+
+<details><summary><strong>Some info about contacting me</strong></summary><p>
 
 - 🌍 Some links of mine:
   - **[Twitter](https://twitter.com/scndthndr)** *(Don't even try to find an amazing tweets here. I'm using Twitter more for lurking)*
@@ -59,6 +63,8 @@
   - 📧 **Email - awayfromgalaxy@gmail.com** *(Checking regularly per day)*
   - ✈ **[Telegram](https://t.me/secondthunder)** *(Don't be shy to write to me first)*
   - 🕖 My active time: **From 9 A.M. till 11:30 P.M.**
+
+</p></details>
 
 ***
 
