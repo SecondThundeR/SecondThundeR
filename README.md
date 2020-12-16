@@ -30,9 +30,9 @@
   - **SQL** *(It will never be superfluous to manage databases)*
 - 🌱 I’m want to learn in future:
   - **HTML + CSS (Intermediate)** *(Mostly for quickly creating great websites)*
-  - **JavaScript Libraries**
+  - **JavaScript Things**
     - **TypeScript** *(To enhance JavaScript power)*
-    - **Electron, React, Angular.js, Vue** *(For making great cross platform and web apps)*
+    - **Electron, React, Angular.js, Vue** *(For making something interesting)*
   - **Ren'Py** *(Yep, I was inspired by DDLC in 2020 -_- and want to create some VN)*
 - 🛠 I'm currently have such projects:
   - [**Scroball X**](https://github.com/SecondThundeR/Scroball-X) — Fork of [Scroball](https://github.com/peterjosling/scroball) by Peter Josling, where I made some changes to provide Material Theme 2, Adless UI, Dark Theme and many other visual improvements
@@ -41,6 +41,7 @@
       - To begin with, I organized the necessary files and deleted unnecessary folders that are not used when interacting with the game in RenPy
       - The code was formatted for best readability when editing
       - And...here's a pretty nice README ;)
+  - [**secondthunder-js-bot**](https://github.com/SecondThundeR/secondthunder-js-bot) — Some random bot for Discord which was created just for fun and for some educational purposes *(Made with Discord.js library)*
   - [**My Landing Page**](https://secondthunder.github.io) — Despite the fact that the site is ready, I am constantly adding something new and interesting
   - **Figma Projects:**
     - [**OrbitReader**](https://www.figma.com/file/GsnLhc0IVJnofPt6yw3JZW/Orbit) — A quick sketch for one unreleased app
