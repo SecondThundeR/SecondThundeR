@@ -51,7 +51,7 @@
 
 <details><summary><strong>Some info about contacting me</strong></summary><p>
 
-- 🌍 Some links of mine:
+- 🌍 Websites, where you can find me:
   - **[Twitter](https://twitter.com/scndthndr)** *(Don't even try to find an amazing tweets here. I'm using Twitter more for lurking)*
   - **[Instagram](https://instagram.com/AwayFromGalaxy)** *(Here I'm posting my pictures (Not regularly but sometimes))*
   - **[VK](https://vk.com/secondthunder)** *(My page in VK, Russian social site)*
