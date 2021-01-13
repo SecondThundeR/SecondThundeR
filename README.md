@@ -36,6 +36,7 @@
 - 🏆 I'm currently finished learning:
    - **Pascal** *(Not a personal choice, but my university requirement)*
 - 🛠 I'm currently have such projects:
+  - ***{Temporary archived}*** [**My Landing Page**](https://secondthunder.github.io) — Despite the fact that the site is ready, I am constantly adding something new and interesting
   - ***{Archived}*** [**Scroball X**](https://github.com/SecondThundeR/Scroball-X) — Fork of [Scroball](https://github.com/peterjosling/scroball) by Peter Josling, where I made some changes to provide Material Theme 2, Adless UI, Dark Theme and many other visual improvements
   - [**DokiDoki-RenPy**](https://github.com/SecondThundeR/DokiDoki-RenPy) — Decompile of Doki Doki Literature Club for internal use in RenPy Launcher, e.g. modification or self-learning *(Because code of DDLC is awesome, even in our time)*
     - But, in the vastness of Github is full of decompiled code of this game, what is the advantage of your repository?
@@ -43,7 +44,7 @@
       - The code was formatted for best readability when editing
       - And...here's a pretty nice README ;)
   - [**secondthunder-js-bot**](https://github.com/SecondThundeR/secondthunder-js-bot) — Some random bot for Discord which was created just for fun and for some educational purposes *(Made with Discord.js library)*
-  - ***{Temporary archived}*** [**My Landing Page**](https://secondthunder.github.io) — Despite the fact that the site is ready, I am constantly adding something new and interesting
+  - [**Webhook-Notifier**](https://github.com/SecondThundeR/Webhook-Notifier) - Simple Python script for posting to Discord *(Written as submodule for main bot)*
   - **Figma Projects:**
     - [**OrbitReader**](https://www.figma.com/file/GsnLhc0IVJnofPt6yw3JZW/Orbit) — A quick sketch for one unreleased app
     - [**Project Delta**](https://www.figma.com/file/Sk8zK5CWB7XjqRE0Uq5T04/Project-Delta?node-id=7%3A3917) — Sketch and ideas for interesting player design
