@@ -64,7 +64,7 @@
 - 📫 The best way you can reach me:
   - 📧 **Email - awayfromgalaxy@gmail.com** *(Checking regularly per day)*
   - ✈ **[Telegram](https://t.me/secondthunder)** *(Don't be shy to write to me first)*
-  - 🕖 My active time: **From 9 A.M. till 11:30 P.M.**
+  - 🕖 My active time: **From 10 A.M. till 11 P.M.**
 
 </p></details>
 
