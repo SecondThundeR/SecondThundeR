@@ -22,9 +22,10 @@
 
 - 🔭 I’m currently working on **secondthunder-py-bot** project
 - 📚 I'm currently learning:
+  - **C** *(Why not?)*
+- ⌛ I'm currently set on hold:
   - **Python** *(Currently using for new version of my bot)*
   - **SQL** *(For using in new version of my bot)*
-- ⌛ Currently nothing set on hold
 - 🌱 I’m want to learn in future:
   - **HTML + CSS (Intermediate)** *(Mostly for quickly creating great websites)*
   - **JavaScript + Node.js**
