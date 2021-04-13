@@ -12,32 +12,40 @@
 - 🏫 I am currently studying at **Gomel State University**
   - **Faculty:** Mathematics and Programming Technologies
   - **Specialty:** Applied Informatics
-- 🗣 My primary language is **Russian**, but in most cases I can speak **English**
-- 💕 I am very passionate about **music** and **mobile photography**, as well as **creating beautiful websites** and **interesting design projects**
+  - Enrolled in **full-time** training
+- 🗣 My primary language is **Russian**, but in most cases I'm trying to speak **English** *(Approximate level: B1)*
+- 💕 I am very passionate about **music** and **mobile photography**, as well as **creating beautiful interfaces** and **interesting projects on Python**
 - 👨‍🎓 Got the **Github Student Developer Pack** on **October 1**
 
 </p></details>
 
 <details><summary><strong>Some info about my activity</strong></summary><p>
 
-- 🔭 I’m currently working on **secondthunder-py-bot** project
+- 🔭 I’m currently not working on any project
 - 📚 I'm currently learning:
-  - **C** *(Why not?)*
+  - **C** *(Why not? + University requirement)*
+  - **Python** *(I'm trying to use it in unusual scenarios and for some interesting scripts)*
 - ⌛ I'm currently set on hold:
-  - **Python** *(Currently using for new version of my bot)*
   - **SQL** *(For using in new version of my bot)*
 - 🌱 I’m want to learn in future:
   - **HTML + CSS (Intermediate)** *(Mostly for quickly creating great websites)*
-  - **JavaScript + Node.js**
+  - **JavaScript**
   - **JavaScript Things**
     - **TypeScript** *(To enhance JavaScript power)*
-    - **Electron, React, Angular.js, Vue** *(For making something interesting)*
-  - **C++** *(Was impressed by the flexibility and nativeness of the language)*
-  - **Ren'Py** *(Yep, I was inspired by DDLC in 2020 -_- and want to create some VN)*
+    - **Node.js, Electron, React, Angular.js, Vue** *(For making something interesting)*
+  - **C++** *(Was impressed by the flexibility and nativeness of the language / Will learn after C)*
+  - **Ren'Py** *(Yep, I was inspired by DDLC in 2020 (-_-) and want to create some VN in future...)*
 - 🏆 I'm currently finished learning:
-   - **Pascal** *(Not a personal choice, but my university requirement)*
+   - **Pascal** *(University requirement. Learned the basis for comfortable work in the future)*
+- 🚧 I'm contributed in:
+   - [**ru.javascript.info**](https://github.com/javascript-tutorial/ru.javascript.info) - Fixed a broken link, nothing else :(
+      - PR: https://github.com/javascript-tutorial/ru.javascript.info/pull/733
+   - [**archinstall**](https://github.com/archlinux/archinstall) - Added a check for the correctness of the username
+      - PRs:
+         - https://github.com/archlinux/archinstall/pull/170
+         - https://github.com/archlinux/archinstall/pull/188 *(Following PR for #170)*  
 - 🛠 I'm currently have such projects *(Projects are arranged in chronological order)*:
-  - **Main Projects:**
+  - **Main Projects (Chronological order):**
      - [**My Landing Page**](https://secondthunder.github.io) — Despite the fact that the site is ready, I am constantly adding something new and interesting
      - ***{Archived}*** [**Scroball X**](https://github.com/SecondThundeR/Scroball-X) — Fork of [Scroball](https://github.com/peterjosling/scroball) by Peter Josling, where I made some changes to provide Material Theme 2, Adless UI, Dark Theme and many other visual improvements
      - [**DokiDoki-RenPy**](https://github.com/SecondThundeR/DokiDoki-RenPy) — Decompile of Doki Doki Literature Club for internal use in RenPy Launcher, e.g. modification or self-learning *(Because code of DDLC is awesome, even in our time)*
@@ -47,6 +55,7 @@
          - And...here's a pretty nice README ;)
      - [**secondthunder-js-bot**](https://github.com/SecondThundeR/secondthunder-js-bot) — Some random bot for Discord which was created just for fun and for some educational purposes *(Made with Discord.js library)*
      - [**Webhook-Notifier**](https://github.com/SecondThundeR/Webhook-Notifier) - Simple Python script for posting to Discord *(Written as submodule for main bot)*
+     - [**Meme Name Generator**](https://github.com/SecondThundeR/namegen-public) - Python script to get a random "person" using a random name and brand name. Made as a result of one joke in the local chat ...
   - **Figma Projects:**
     - [**OrbitReader**](https://www.figma.com/file/GsnLhc0IVJnofPt6yw3JZW/Orbit) — A quick sketch for one unreleased app
     - [**Project Delta**](https://www.figma.com/file/Sk8zK5CWB7XjqRE0Uq5T04/Project-Delta?node-id=7%3A3917) — Sketch and ideas for interesting player design
@@ -66,12 +75,12 @@
   - *The list is not over yet (Perhaps it will be updated when I remember some more links.)*
 
 - 📫 The best way you can reach me:
-  - 📧 **Email - awayfromgalaxy@gmail.com** *(I will answer as soon as I receive notification)*
   - ✈ **[Telegram](https://t.me/secondthunder)** *(Don't be shy to write to me first)*
-  - 🕖 My active time: **From 12 A.M. till 12 P.M.**
+  - 📧 **Email - awayfromgalaxy@gmail.com** *(I will answer as soon as I receive notification)*
+  - 🕖 My active time: **From 9 A.M. till 12 P.M.**
 
 </p></details>
 
 ***
 
-<h3 align="center">Well, my Github page isn't full of big and great projects yet, but this is only a beginning of my wonderful journey to the world of programming 🎆</h3>
+<h3 align="center">Currently, I don't have big and amazing projects yet, but this is only a beginning of my wonderful journey to the world of programming 🎆</h3>
