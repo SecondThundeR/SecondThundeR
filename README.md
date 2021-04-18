@@ -45,26 +45,26 @@
       - PRs: https://github.com/archlinux/archinstall/pulls?q=is%3Apr+author%3ASecondThundeR
 - 🛠 I'm currently have such projects *(Projects are arranged in chronological order)*:
   - **Main Projects:**
-     - [**My Landing Page**](https://secondthunder.github.io) — Despite the fact that the site is ready, I am constantly adding something new and interesting
-     - ***{Archived}*** [**Scroball X**](https://github.com/SecondThundeR/Scroball-X) — Fork of [Scroball](https://github.com/peterjosling/scroball) by Peter Josling, where I made some changes to provide Material Theme 2, Adless UI, Dark Theme and many other visual improvements
-     - [**DokiDoki-RenPy**](https://github.com/SecondThundeR/DokiDoki-RenPy) — Decompile of Doki Doki Literature Club for internal use in RenPy Launcher, e.g. modification or self-learning *(Because code of DDLC is awesome, even in our time)*
-       - But, in the vastness of Github is full of decompiled code of this game, what is the advantage of your repository?
+     - [**My Landing Page**](https://secondthunder.github.io) — My personal landing page, written on pure HTML/CSS/JS *(Planning to move on React.js :D)*
+     - ***{Archived}*** [**Scroball X**](https://github.com/SecondThundeR/Scroball-X) — Fork of [Scroball](https://github.com/peterjosling/scroball) by Peter Josling, where I made some changes to provide Google-like Material UI, Adless UX, Dark Theme and many other visual improvements
+     - [**DokiDoki-RenPy**](https://github.com/SecondThundeR/DokiDoki-RenPy) — Decompile of Doki Doki Literature Club for internal use in RenPy Launcher, e.g. modification or self-learning *(Because code of DDLC's minigames and "glitches" is awesome, even in our time)*
+       - But, there are a lot of repositories with decompiled code of this game, what is the advantage of your repository?
          - To begin with, I organized the necessary files and deleted unnecessary folders that are not used when interacting with the game in RenPy
          - The code was formatted for best readability when editing
          - And...here's a pretty nice README ;)
-     - [**secondthunder-js-bot**](https://github.com/SecondThundeR/secondthunder-js-bot) — Some random bot for Discord which was created just for fun and for some educational purposes *(Made with Discord.js library)*
+     - [**secondthunder-py-bot**](https://github.com/SecondThundeR/secondthunder-py-bot) — Some random bot for Discord which was created just for fun and for some educational purposes *(Made with Discord.py library)*
      - [**Webhook-Notifier**](https://github.com/SecondThundeR/Webhook-Notifier) - Simple Python script for posting to Discord *(Written as submodule for main bot)*
      - [**Meme Name Generator**](https://github.com/SecondThundeR/namegen-public) - Python script to get a random "person" using a random name and brand name. Made as a result of one joke in the local chat ...
   - **Figma Projects:**
-    - [**OrbitReader**](https://www.figma.com/file/GsnLhc0IVJnofPt6yw3JZW/Orbit) — A quick sketch for one unreleased app
-    - [**Project Delta**](https://www.figma.com/file/Sk8zK5CWB7XjqRE0Uq5T04/Project-Delta?node-id=7%3A3917) — Sketch and ideas for interesting player design
+    - ***{Archived}*** [**OrbitReader**](https://www.figma.com/file/GsnLhc0IVJnofPt6yw3JZW/Orbit) — A quick sketch for one unreleased app
+    - ***{Postponed}*** [**Project Delta**](https://www.figma.com/file/Sk8zK5CWB7XjqRE0Uq5T04/Project-Delta) — Sketch and ideas for interesting player design
 
 </p></details>
 
 <details><summary><strong>Some info about contacting me</strong></summary><p>
 
 - 🌍 Websites, where you can find me:
-  - **[VK](https://vk.com/secondthunder)** *(My page in VK, Russian social site)*
+  - **[VK](https://vk.com/secondthunder)** *(Me in VKontakte)*
   - **[Twitter](https://twitter.com/scndthndr)** *(Don't even try to find an amazing tweets here. I'm using Twitter more for lurking)*
   - **[Instagram](https://instagram.com/AwayFromGalaxy)** *(Here I'm posting my pictures (Not regularly but sometimes))*
   - **[Last.fm](https://last.fm/user/AwayFromGalaxy)** *(Here you can find what I'm listening right now and explore what I have been listening to during the entire creation of my account)*
