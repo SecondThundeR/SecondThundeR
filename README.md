@@ -44,7 +44,7 @@
    - [**archinstall**](https://github.com/archlinux/archinstall)
       - PRs: https://github.com/archlinux/archinstall/pulls?q=is%3Apr+author%3ASecondThundeR
 - 🛠 I'm currently have such projects *(Projects are arranged in chronological order)*:
-  - **Main Projects (Chronological order):**
+  - **Main Projects:**
      - [**My Landing Page**](https://secondthunder.github.io) — Despite the fact that the site is ready, I am constantly adding something new and interesting
      - ***{Archived}*** [**Scroball X**](https://github.com/SecondThundeR/Scroball-X) — Fork of [Scroball](https://github.com/peterjosling/scroball) by Peter Josling, where I made some changes to provide Material Theme 2, Adless UI, Dark Theme and many other visual improvements
      - [**DokiDoki-RenPy**](https://github.com/SecondThundeR/DokiDoki-RenPy) — Decompile of Doki Doki Literature Club for internal use in RenPy Launcher, e.g. modification or self-learning *(Because code of DDLC is awesome, even in our time)*
