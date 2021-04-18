@@ -16,6 +16,7 @@
 - 🗣 My primary language is **Russian**, but in most cases I'm trying to speak **English** *(Approximate level: B1)*
 - 💕 I am very passionate about **music** and **mobile photography**, as well as **creating beautiful interfaces** and **interesting projects on Python**
 - 👨‍🎓 Got the **Github Student Developer Pack** on **October 1**
+- 📷 Currently my profile picture is **Mirai Kuriyama** from **Kyoukai no Kanata**
 
 </p></details>
 
@@ -40,10 +41,8 @@
 - 🚧 I'm contributed in:
    - [**ru.javascript.info**](https://github.com/javascript-tutorial/ru.javascript.info) - Fixed a broken link, nothing else :(
       - PR: https://github.com/javascript-tutorial/ru.javascript.info/pull/733
-   - [**archinstall**](https://github.com/archlinux/archinstall) - Added a check for the correctness of the username
-      - PRs:
-         - https://github.com/archlinux/archinstall/pull/170
-         - https://github.com/archlinux/archinstall/pull/188 *(Following PR for #170)*  
+   - [**archinstall**](https://github.com/archlinux/archinstall)
+      - PRs: https://github.com/archlinux/archinstall/pulls?q=is%3Apr+author%3ASecondThundeR
 - 🛠 I'm currently have such projects *(Projects are arranged in chronological order)*:
   - **Main Projects (Chronological order):**
      - [**My Landing Page**](https://secondthunder.github.io) — Despite the fact that the site is ready, I am constantly adding something new and interesting
