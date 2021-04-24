@@ -45,7 +45,7 @@
       - PRs: https://github.com/archlinux/archinstall/pulls?q=is%3Apr+author%3ASecondThundeR
 - 🛠 I'm currently have such projects *(Projects are arranged in chronological order)*:
   - **Main Projects:**
-     - [**My Landing Page**](https://secondthunder.github.io) — My personal landing page, written on pure HTML/CSS/JS *(Planning to move on React.js :D)*
+     - [**Project Aether**](https://secondthunder.github.io) — My personal landing page, written on pure HTML/CSS/JS *(Planning to move on React.js :D)*
      - ***{Archived}*** [**Scroball X**](https://github.com/SecondThundeR/Scroball-X) — Fork of [Scroball](https://github.com/peterjosling/scroball) by Peter Josling, where I made some changes to provide Google-like Material UI, Adless UX, Dark Theme and many other visual improvements
      - [**DokiDoki-RenPy**](https://github.com/SecondThundeR/DokiDoki-RenPy) — Decompile of Doki Doki Literature Club for internal use in RenPy Launcher, e.g. modification or self-learning *(Because code of DDLC's minigames and "glitches" is awesome, even in our time)*
        - But, there are a lot of repositories with decompiled code of this game, what is the advantage of your repository?
