@@ -52,9 +52,9 @@
          - To begin with, I organized the necessary files and deleted unnecessary folders that are not used when interacting with the game in RenPy
          - The code was formatted for best readability when editing
          - And...here's a pretty nice README ;)
-     - [**secondthunder-py-bot**](https://github.com/SecondThundeR/secondthunder-py-bot) — Some random bot for Discord which was created just for fun and for some educational purposes *(Made with Discord.py library)*
+     - [**Project Odysseus**](https://github.com/SecondThundeR/project-odysseus) — Some random bot for Discord which was created just for fun and for some educational purposes *(Made with Discord.py library)*
      - [**Webhook-Notifier**](https://github.com/SecondThundeR/Webhook-Notifier) - Simple Python script for posting to Discord *(Written as submodule for main bot)*
-     - [**Meme Name Generator**](https://github.com/SecondThundeR/namegen-public) - Python script to get a random "person" using a random name and brand name. Made as a result of one joke in the local chat ...
+     - ***{Postponed}*** [**Namegen**](https://github.com/SecondThundeR/namegen-public) - Python script to get a random "person" using a random name and brand name. Made as a result of one joke in the local chat ...
   - **Figma Projects:**
     - ***{Archived}*** [**OrbitReader**](https://www.figma.com/file/GsnLhc0IVJnofPt6yw3JZW/Orbit) — A quick sketch for one unreleased app
     - ***{Postponed}*** [**Project Delta**](https://www.figma.com/file/Sk8zK5CWB7XjqRE0Uq5T04/Project-Delta) — Sketch and ideas for interesting player design
