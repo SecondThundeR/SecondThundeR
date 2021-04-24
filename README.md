@@ -46,7 +46,7 @@
 - 🛠 I'm currently have such projects *(Projects are arranged in chronological order)*:
   - **Main Projects:**
      - [**Project Aether**](https://secondthunder.github.io) — My personal landing page, written on pure HTML/CSS/JS *(Planning to move on React.js :D)*
-     - ***{Archived}*** [**Scroball X**](https://github.com/SecondThundeR/Scroball-X) — Fork of [Scroball](https://github.com/peterjosling/scroball) by Peter Josling, where I made some changes to provide Google-like Material UI, Adless UX, Dark Theme and many other visual improvements
+     - [**Scroball X**](https://github.com/SecondThundeR/Scroball-X) — Fork of [Scroball](https://github.com/peterjosling/scroball) by Peter Josling, where I made some changes to provide Google-like Material UI, Adless UX, Dark Theme and many other visual improvements *(This project is archived)*
      - [**DokiDoki-RenPy**](https://github.com/SecondThundeR/DokiDoki-RenPy) — Decompile of Doki Doki Literature Club for internal use in RenPy Launcher, e.g. modification or self-learning *(Because code of DDLC's minigames and "glitches" is awesome, even in our time)*
        - But, there are a lot of repositories with decompiled code of this game, what is the advantage of your repository?
          - To begin with, I organized the necessary files and deleted unnecessary folders that are not used when interacting with the game in RenPy
@@ -54,10 +54,10 @@
          - And...here's a pretty nice README ;)
      - [**Ghosty!**](https://github.com/SecondThundeR/ghosty) — Some random bot for Discord which was created just for fun and for some educational purposes *(Made with Discord.py library)*
      - [**Webhook-Notifier**](https://github.com/SecondThundeR/Webhook-Notifier) - Simple Python script for posting to Discord *(Written as submodule for main bot)*
-     - ***{Postponed}*** [**Namegen**](https://github.com/SecondThundeR/namegen-public) - Python script to get a random "person" using a random name and brand name. Made as a result of one joke in the local chat ...
+     - [**Name Generator**](https://github.com/SecondThundeR/namegen) - Python script to get a random name + username using a random name and brand name as surname. Made as a result of one joke in the local chat ... *(Currently not maintained)*
   - **Figma Projects:**
-    - ***{Archived}*** [**OrbitReader**](https://www.figma.com/file/GsnLhc0IVJnofPt6yw3JZW/Orbit) — A quick sketch for one unreleased app
-    - ***{Postponed}*** [**Project Delta**](https://www.figma.com/file/Sk8zK5CWB7XjqRE0Uq5T04/Project-Delta) — Sketch and ideas for interesting player design
+    - [**OrbitReader**](https://www.figma.com/file/GsnLhc0IVJnofPt6yw3JZW/Orbit) — A quick sketch for one unreleased app *(This project is archived)*
+    - [**Project Delta**](https://www.figma.com/file/Sk8zK5CWB7XjqRE0Uq5T04/Project-Delta) — Sketch and ideas for interesting player design *(Currently not maintained)*
 
 </p></details>
 
