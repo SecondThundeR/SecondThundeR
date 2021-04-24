@@ -52,7 +52,7 @@
          - To begin with, I organized the necessary files and deleted unnecessary folders that are not used when interacting with the game in RenPy
          - The code was formatted for best readability when editing
          - And...here's a pretty nice README ;)
-     - [**Project Odysseus**](https://github.com/SecondThundeR/project-odysseus) — Some random bot for Discord which was created just for fun and for some educational purposes *(Made with Discord.py library)*
+     - [**Ghosty!**](https://github.com/SecondThundeR/ghosty) — Some random bot for Discord which was created just for fun and for some educational purposes *(Made with Discord.py library)*
      - [**Webhook-Notifier**](https://github.com/SecondThundeR/Webhook-Notifier) - Simple Python script for posting to Discord *(Written as submodule for main bot)*
      - ***{Postponed}*** [**Namegen**](https://github.com/SecondThundeR/namegen-public) - Python script to get a random "person" using a random name and brand name. Made as a result of one joke in the local chat ...
   - **Figma Projects:**
@@ -80,6 +80,6 @@
 
 </p></details>
 
-***
+<!-- *** -->
 
-<h3 align="center">Currently, I don't have big and amazing projects yet, but this is only a beginning of my wonderful journey to the world of programming 🎆</h3>
+<!-- <h3 align="center">Currently, I don't have big and amazing projects yet, but this is only a beginning of my wonderful journey to the world of programming 🎆</h3> -->
