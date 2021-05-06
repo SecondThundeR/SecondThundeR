@@ -22,7 +22,7 @@
 
 <details><summary><strong>Some info about my activity</strong></summary><p>
 
-- 🔭 I’m currently not working on any project
+- 🔭 I’m currently on **Ghosty** project
 - 📚 I'm currently learning:
   - **C** *(Why not? + University requirement)*
   - **Python** *(I'm trying to use it in unusual scenarios and for some interesting scripts)*
@@ -57,6 +57,7 @@
      - [**Webhook-Notifier**](https://github.com/SecondThundeR/Webhook-Notifier) - Simple Python script for posting to Discord *(Written as submodule for main bot)*
      - [**Name Generator**](https://github.com/SecondThundeR/namegen) - Python script to get a random name + username using a random name and brand name as surname. Made as a result of one joke in the local chat ...
        - Status: **Not maintained**
+     - [**CodeStats to VK**](https://github.com/SecondThundeR/codestats-to-vk) - Python script to get data from CodeStats API and set status on VK
   - **Figma Projects:**
     - [**OrbitReader**](https://www.figma.com/file/GsnLhc0IVJnofPt6yw3JZW/Orbit) — A quick sketch for one unreleased app
       - Status: **Archived**
