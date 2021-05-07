@@ -22,7 +22,7 @@
 
 <details><summary><strong>Some info about my activity</strong></summary><p>
 
-- 🔭 I’m currently on **Ghosty** project
+- 🔭 I’m currently working on **Ghosty** project
 - 📚 I'm currently learning:
   - **C** *(Why not? + University requirement)*
   - **Python** *(I'm trying to use it in unusual scenarios and for some interesting scripts)*
