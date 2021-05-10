@@ -66,7 +66,7 @@
 
 </p></details>
 
-<details><summary><strong>Some information on how to contact me</strong></summary><p>
+<details><summary><strong>Some info on how to contact me</strong></summary><p>
 
 - 🌍 Websites, where you can find me:
   - **[VK](https://vk.com/secondthunder)** *(Me in VKontakte)*
