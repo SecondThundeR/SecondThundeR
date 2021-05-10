@@ -76,6 +76,7 @@
   - **[Spotify](https://open.spotify.com/user/secondthunder)** *(Just my social page on Spotify. Feel free to follow me and listen to my self curated playlist at the bottom of the page)*
   - **[Code::Stats](https://codestats.net/users/AwayFromGalaxy)** *(My coding activity outside of Github)*
   - **[Discord](https://discord.com/users/156081219866591232)** *(Place where I mostly online)*
+    - Account: SecondThundeR#4467
   - *The list is not over yet (Perhaps it will be updated when I remember some more links.)*
 
 - 📫 The best way you can reach me:
