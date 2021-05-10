@@ -75,7 +75,7 @@
   - **[Last.fm](https://last.fm/user/AwayFromGalaxy)** *(Here you can find what I'm listening right now and explore what I have been listening to during the entire creation of my account)*
   - **[Spotify](https://open.spotify.com/user/secondthunder)** *(Just my social page on Spotify. Feel free to follow me and listen to my self curated playlist at the bottom of the page)*
   - **[Code::Stats](https://codestats.net/users/AwayFromGalaxy)** *(My coding activity outside of Github)*
-  - **Discord : SecondThundeR#4467** *(Place where I mostly online)*
+  - **[Discord](https://discord.com/users/156081219866591232)** *(Place where I mostly online)*
   - *The list is not over yet (Perhaps it will be updated when I remember some more links.)*
 
 - 📫 The best way you can reach me:
