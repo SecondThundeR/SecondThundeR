@@ -55,6 +55,7 @@
          - And...here's a pretty nice README ;)
      - [**Ghosty!**](https://github.com/SecondThundeR/ghosty) — Some random bot for Discord which was created just for fun and for some educational purposes *(Made with Discord.py library)*
      - [**Webhook-Notifier**](https://github.com/SecondThundeR/Webhook-Notifier) - Simple Python script for posting to Discord *(Written as submodule for main bot)*
+       - Status: **Archived**
      - [**Name Generator**](https://github.com/SecondThundeR/namegen) - Python script to get a random name + username using a random name and brand name as surname. Made as a result of one joke in the local chat ...
        - Status: **Not maintained**
      - [**CodeStats to VK**](https://github.com/SecondThundeR/codestats-to-vk) - Python script to get data from CodeStats API and set status on VK
