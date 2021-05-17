@@ -39,10 +39,12 @@
 - 🏆 I'm currently finished learning:
    - **Pascal** *(University requirement. Learned the basis for comfortable work in the future)*
 - 🚧 I'm contributed in:
-   - [**ru.javascript.info**](https://github.com/javascript-tutorial/ru.javascript.info) - Fixed a broken link, nothing else :(
+   - [**ru.javascript.info**](https://github.com/javascript-tutorial/ru.javascript.info)
       - PR: https://github.com/javascript-tutorial/ru.javascript.info/pull/733
    - [**archinstall**](https://github.com/archlinux/archinstall)
       - PRs: https://github.com/archlinux/archinstall/pulls?q=is%3Apr+author%3ASecondThundeR
+   - [**Catogram**](https://github.com/Catogram/Catogram)
+      - PRs: https://github.com/Catogram/Catogram/pulls?q=is%3Apr+author%3ASecondThundeR
 - 🛠 I'm currently have such projects *(Projects are arranged in chronological order)*:
   - **Main Projects:**
      - [**Project Aether**](https://secondthunder.github.io) — My personal landing page, written on pure HTML/CSS/JS *(Planning to move on React.js :D)*
