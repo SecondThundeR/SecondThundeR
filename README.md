@@ -5,7 +5,7 @@
 <details><summary><strong>Some info about me</strong></summary><p>
 
 - 🙋‍♂️ My name is **Vladislav** *(Владислав)*
--  🎂 I'm **17** years old
+-  🎂 I'm **18** years old
    - 📆 I celebrate my birthday on **June 22**
 - 🏠 I'm currently living in **Gomel, Belarus** *(My hometown)*
   - 🚄 I dream of moving to **St. Petersburg, Russia**
