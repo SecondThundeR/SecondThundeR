@@ -61,8 +61,10 @@
        - Status: **Archived**
      - [***Name Generator***](https://github.com/SecondThundeR/namegen) - Python script to get a random name + username using a random name and brand name as surname. Made as a result of one joke in the local chat ...
        - Status: **Not maintained**
-     - [**CodeStats to VK**](https://github.com/SecondThundeR/codestats-to-vk) - Python script to get data from CodeStats API and set status on VK
-      -[**VK Reminder Bot**](https://github.com/SecondThundeR/vk-reminder-bot) - Just simple script for VK bot to remind something every hour with help of cronjobs 
+     - [***CodeStats to VK***](https://github.com/SecondThundeR/codestats-to-vk) - Python script to get data from CodeStats API and set status on VK
+       - Status: **Not maintained**
+     - [***VK Reminder Bot***](https://github.com/SecondThundeR/vk-reminder-bot) - Just simple script for VK bot to remind something every hour with help of cronjobs
+       - Status: **Not maintained**
   - **Figma Projects:**
     - [***OrbitReader***](https://www.figma.com/file/GsnLhc0IVJnofPt6yw3JZW/Orbit) — A quick sketch for one unreleased app
       - Status: **Archived**
