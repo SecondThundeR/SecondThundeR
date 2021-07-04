@@ -22,9 +22,9 @@
 
 <details><summary><strong>Some info about my activity</strong></summary><p>
 
-- 🔭 I’m currently working on **Ghosty** project
+- 🔭 I’m currently not working on any project *(Due to exams/vacation)*
 - 📚 I'm currently learning:
-  - **C** *(Why not? + University requirement)*
+  - **C#** *(Want to enter the world of UWP apps, and, maybe, Unity games as well)*
   - **Python** *(I'm trying to use it in unusual scenarios and for some interesting scripts)*
 - ⌛ I'm currently set on hold:
   - **SQL** *(For using in new version of my bot)*
@@ -37,6 +37,7 @@
   - **C++** *(Was impressed by the flexibility and nativeness of the language / Will learn after C)*
   - **Ren'Py** *(Yep, I was inspired by DDLC in 2020 (-_-) and want to create some VN in future...)*
 - 🏆 I'm currently finished learning:
+   - **C** *(Why not? + University requirement)*
    - **Pascal** *(University requirement. Learned the basis for comfortable work in the future)*
 - 🚧 I'm contributed in:
    - [**ru.javascript.info**](https://github.com/javascript-tutorial/ru.javascript.info)
@@ -61,6 +62,7 @@
      - [***Name Generator***](https://github.com/SecondThundeR/namegen) - Python script to get a random name + username using a random name and brand name as surname. Made as a result of one joke in the local chat ...
        - Status: **Not maintained**
      - [**CodeStats to VK**](https://github.com/SecondThundeR/codestats-to-vk) - Python script to get data from CodeStats API and set status on VK
+      -[**VK Reminder Bot**](https://github.com/SecondThundeR/vk-reminder-bot) - Just simple script for VK bot to remind something every hour with help of cronjobs 
   - **Figma Projects:**
     - [***OrbitReader***](https://www.figma.com/file/GsnLhc0IVJnofPt6yw3JZW/Orbit) — A quick sketch for one unreleased app
       - Status: **Archived**
