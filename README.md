@@ -41,7 +41,7 @@
    - **Pascal** *(University requirement. Learned the basis for comfortable work in the future)*
 - 🚧 I'm contributed in:
    - [**ru.javascript.info**](https://github.com/javascript-tutorial/ru.javascript.info)
-      - PR: https://github.com/javascript-tutorial/ru.javascript.info/pull/733
+      - PRs: https://github.com/javascript-tutorial/pulls?q=is%3Apr+author%3ASecondThundeR
    - [**archinstall**](https://github.com/archlinux/archinstall)
       - PRs: https://github.com/archlinux/archinstall/pulls?q=is%3Apr+author%3ASecondThundeR
    - [**Catogram**](https://github.com/Catogram/Catogram)
@@ -59,8 +59,6 @@
      - [**Ghosty!**](https://github.com/SecondThundeR/ghosty) — Some random bot for Discord which was created just for fun and for some educational purposes *(Made with Discord.py library)*
      - [***Webhook-Notifier***](https://github.com/SecondThundeR/Webhook-Notifier) - Simple Python script for posting to Discord *(Written as submodule for main bot)*
        - Status: **Archived**
-     - [***Name Generator***](https://github.com/SecondThundeR/namegen) - Python script to get a random name + username using a random name and brand name as surname. Made as a result of one joke in the local chat ...
-       - Status: **Not maintained**
      - [***CodeStats to VK***](https://github.com/SecondThundeR/codestats-to-vk) - Python script to get data from CodeStats API and set status on VK
        - Status: **Not maintained**
      - [***VK Reminder Bot***](https://github.com/SecondThundeR/vk-reminder-bot) - Just simple script for VK bot to remind something every hour with help of cronjobs
