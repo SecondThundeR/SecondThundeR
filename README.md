@@ -22,12 +22,11 @@
 
 <details><summary><strong>Some info about my activity</strong></summary><p>
 
-- 🔭 I’m currently not working on any project *(Due to exams/vacation)*
+- 🔭 I’m currently not working on [**ghosty**](https://github.com/SecondThundeR/ghosty) project
 - 📚 I'm currently learning:
   - **C#** *(Want to enter the world of UWP apps, and, maybe, Unity games as well)*
   - **Python** *(I'm trying to use it in unusual scenarios and for some interesting scripts)*
-- ⌛ I'm currently set on hold:
-  - **SQL** *(For using in new version of my bot)*
+- ⌛ I'm currently set nothing on hold
 - 🌱 I’m want to learn in future:
   - **HTML + CSS (Intermediate)** *(Mostly for quickly creating great websites)*
   - **JavaScript**
@@ -35,10 +34,11 @@
     - **TypeScript** *(To enhance JavaScript power)*
     - **Node.js, Electron, React, Angular.js, Vue** *(For making something interesting)*
   - **C++** *(Was impressed by the flexibility and nativeness of the language / Will learn after C)*
-  - **Ren'Py** *(Yep, I was inspired by DDLC in 2020 (-_-) and want to create some VN in future...)*
+  - **Ren'Py** *(Yep, I was inspired by DDLC in 2020 (-_-) and maybe want to create some VN in future...)*
 - 🏆 I'm currently finished learning:
    - **C** *(Why not? + University requirement)*
    - **Pascal** *(University requirement. Learned the basis for comfortable work in the future)*
+   - **SQL** *(For using in new version of my bot. Learned needed basis)*
 - 🚧 I'm contributed in:
    - [**ru.javascript.info**](https://github.com/javascript-tutorial/ru.javascript.info)
       - PRs: https://github.com/javascript-tutorial/pulls?q=is%3Apr+author%3ASecondThundeR
@@ -56,18 +56,21 @@
          - To begin with, I organized the necessary files and deleted unnecessary folders that are not used when interacting with the game in RenPy
          - The code was formatted for best readability when editing
          - And...here's a pretty nice README ;)
-     - [**Ghosty!**](https://github.com/SecondThundeR/ghosty) — Some random bot for Discord which was created just for fun and for some educational purposes *(Made with Discord.py library)*
+     - [**Ghosty**](https://github.com/SecondThundeR/ghosty) — Some random bot for Discord which was created just for fun and for some educational purposes *(Made with Discord.py library)*
      - [***Webhook-Notifier***](https://github.com/SecondThundeR/Webhook-Notifier) - Simple Python script for posting to Discord *(Written as submodule for main bot)*
        - Status: **Archived**
      - [***CodeStats to VK***](https://github.com/SecondThundeR/codestats-to-vk) - Python script to get data from CodeStats API and set status on VK
        - Status: **Not maintained**
      - [***VK Reminder Bot***](https://github.com/SecondThundeR/vk-reminder-bot) - Just simple script for VK bot to remind something every hour with help of cronjobs
        - Status: **Not maintained**
+     - [**SpotiChecker**](https://github.com/SecondThundeR/spotichecker) - Python script to check for unavailable tracks in "Loved Tracks" section
   - **Figma Projects:**
-    - [***OrbitReader***](https://www.figma.com/file/GsnLhc0IVJnofPt6yw3JZW/Orbit) — A quick sketch for one unreleased app
+    - [***OrbitReader***](https://www.figma.com/file/GsnLhc0IVJnofPt6yw3JZW/Orbit) - A quick sketch for one unreleased app
       - Status: **Archived**
-    - [***Project Delta***](https://www.figma.com/file/Sk8zK5CWB7XjqRE0Uq5T04/Project-Delta) — Sketch and ideas for interesting player design
+    - [***Project Delta***](https://www.figma.com/file/Sk8zK5CWB7XjqRE0Uq5T04/Project-Delta) - Sketch and ideas for interesting player design
       - Status: **Not maintained**
+    - [***Telegram Contest Work***](https://www.figma.com/file/9wgUy3OaqY1Tloz4jtCIuU/Telegram-Contest-(SecondThundeR)) - My work for the [July contest for designers](https://contest.com/docs/android-design-21) from the Telegram team
+      - Status: Finished
 
 </p></details>
 
@@ -87,6 +90,6 @@
 - 📫 The best way you can reach me:
   - ✈ **[Telegram](https://t.me/secondthunder)** *(Don't be shy to write to me first)*
   - 📧 **Email - awayfromgalaxy@gmail.com** *(I will answer as soon as I receive notification)*
-  - 🕖 My active time: **From 9 A.M. till 12 P.M.**
+  - 🕖 My active time: **From 10 A.M. till 10 P.M.**
 
 </p></details>
