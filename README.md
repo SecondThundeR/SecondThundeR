@@ -22,7 +22,7 @@
 
 <details><summary><strong>Some info about my activity</strong></summary><p>
 
-- 🔭 I’m currently not working on [**ghosty**](https://github.com/SecondThundeR/ghosty) project
+- 🔭 I’m currently working on [**Ghosty**](https://github.com/SecondThundeR/ghosty) and [**SpotiChecker**](https://github.com/SecondThundeR/spotichecker) projects
 - 📚 I'm currently learning:
   - **C#** *(Want to enter the world of UWP apps, and, maybe, Unity games as well)*
   - **Python** *(I'm trying to use it in unusual scenarios and for some interesting scripts)*
