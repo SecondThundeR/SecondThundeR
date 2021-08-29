@@ -15,7 +15,7 @@
   - Enrolled in **full-time** training
 - 🗣 My primary language is **Russian**, but in most cases I'm trying to speak **English** *(Approximate level: B1)*
 - 💕 I am very passionate about **music** and **mobile photography**, as well as **creating beautiful interfaces** and **interesting projects on Python**
-- 👨‍🎓 Got the **Github Student Developer Pack** on **October 1**
+- 👨‍🎓 Got the **Github Student Developer Pack** on **October 1, 2020**
 - 📷 Currently my profile picture is **Mirai Kuriyama** from **Kyoukai no Kanata**
 
 </p></details>
