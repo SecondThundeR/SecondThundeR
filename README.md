@@ -24,9 +24,10 @@
 
 - 🔭 I’m currently working on [**Ghosty**](https://github.com/SecondThundeR/ghosty) and [**SpotiChecker**](https://github.com/SecondThundeR/spotichecker) projects
 - 📚 I'm currently learning:
-  - **C#** *(Want to enter the world of UWP apps, and, maybe, Unity games as well)*
+  - **C++** *(University Requirement)*
   - **Python** *(I'm trying to use it in unusual scenarios and for some interesting scripts)*
 - ⌛ I'm currently set nothing on hold
+   - **C#** *(Want to enter the world of UWP apps, and, maybe, Unity games as well)*
 - 🌱 I’m want to learn in future:
   - **HTML + CSS (Intermediate)** *(Mostly for quickly creating great websites)*
   - **JavaScript**
@@ -40,12 +41,10 @@
    - **Pascal** *(University requirement. Learned the basis for comfortable work in the future)*
    - **SQL** *(For using in new version of my bot. Learned needed basis)*
 - 🚧 I'm contributed in:
-   - [**ru.javascript.info**](https://github.com/javascript-tutorial/ru.javascript.info)
-      - PRs: https://github.com/javascript-tutorial/pulls?q=is%3Apr+author%3ASecondThundeR
-   - [**archinstall**](https://github.com/archlinux/archinstall)
-      - PRs: https://github.com/archlinux/archinstall/pulls?q=is%3Apr+author%3ASecondThundeR
-   - [**Catogram**](https://github.com/Catogram/Catogram)
-      - PRs: https://github.com/Catogram/Catogram/pulls?q=is%3Apr+author%3ASecondThundeR
+   - [**ru.javascript.info**](https://github.com/javascript-tutorial/ru.javascript.info/pulls?q=is%3Apr+author%3ASecondThundeR)
+   - [**archinstall**](https://github.com/archlinux/archinstall/pulls?q=is%3Apr+author%3ASecondThundeR)
+   - [**Catogram**](https://github.com/Catogram/Catogram/pulls?q=is%3Apr+author%3ASecondThundeR)
+   - [**evobot**](https://github.com/eritislami/evobot/pulls?q=is%3Apr+author%3ASecondThundeR)
 - 🛠 I'm currently have such projects *(Projects are arranged in chronological order)*:
   - **Main Projects:**
      - [**Project Aether**](https://secondthunder.github.io) — My personal landing page, written on pure HTML/CSS/JS *(Planning to move on React.js :D)*
@@ -70,7 +69,7 @@
     - [***Project Delta***](https://www.figma.com/file/Sk8zK5CWB7XjqRE0Uq5T04/Project-Delta) - Sketch and ideas for interesting player design
       - Status: **Not maintained**
     - [***Telegram Contest Work***](https://www.figma.com/file/9wgUy3OaqY1Tloz4jtCIuU/Telegram-Contest-(SecondThundeR)) - My work for the [July contest for designers](https://contest.com/docs/android-design-21) from the Telegram team
-      - Status: Finished
+      - Status: **Finished**
 
 </p></details>
 
