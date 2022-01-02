@@ -70,6 +70,7 @@
       - Status: **Not maintained**
     - [***Telegram Contest Work***](https://www.figma.com/file/9wgUy3OaqY1Tloz4jtCIuU/Telegram-Contest-(SecondThundeR)) - My work for the [July contest for designers](https://contest.com/docs/android-design-21) from the Telegram team
       - Status: **Finished**
+      - Place: **4th**
 
 </p></details>
 
