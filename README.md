@@ -26,7 +26,7 @@
 - 📚 I'm currently learning:
   - **JavaScript**
   - **Python**
-- ⌛ I've currently set nothing on hold
+- ⌛ I've currently set on hold
    - **C#**
 - 🌱 I want to learn in the future:
   - **HTML + CSS**
