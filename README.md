@@ -44,7 +44,7 @@
    - [**archinstall**](https://github.com/archlinux/archinstall/pulls?q=is%3Apr+author%3ASecondThundeR)
    - [**Catogram**](https://github.com/Catogram/Catogram/pulls?q=is%3Apr+author%3ASecondThundeR)
    - [**evobot**](https://github.com/eritislami/evobot/pulls?q=is%3Apr+author%3ASecondThundeR)
-- 🛠 I work or used to work currently such projects:
+- 🛠 I've been working on such projects:
   - **Main Projects:**
      - [**Project Aether**](https://secondthunder.github.io) — My personal landing page, written on pure HTML/CSS/JS
      - [***Scroball X***](https://github.com/SecondThundeR/Scroball-X) — Fork of [Scroball](https://github.com/peterjosling/scroball) by Peter Josling, where I made some changes to provide Google-like Material UI, Adless UX, Dark Theme, and many other visual improvements
