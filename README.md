@@ -63,9 +63,12 @@
       - Status: **Archived**
     - [***Project Delta***](https://www.figma.com/file/Sk8zK5CWB7XjqRE0Uq5T04/Project-Delta) - Sketch and ideas for interesting player design
       - Status: **Not maintained**
-    - [***Telegram Contest Work***](https://www.figma.com/file/9wgUy3OaqY1Tloz4jtCIuU/Telegram-Contest-(SecondThundeR)) - My work for the [July contest for designers](https://contest.com/docs/android-design-21) from the Telegram team
+    - [***Telegram Contest Work***](https://www.figma.com/file/9wgUy3OaqY1Tloz4jtCIuU/Telegram-Contest-(SecondThundeR)) - My work for the [July contest for Designers](https://contest.com/docs/android-design-21) from the Telegram team
       - Status: **Finished**
       - Place: **4th** *(1000$)*
+    - [***Unigram Redesign Contest***](https://www.figma.com/file/Ei6xUhhDvAshU06PAtGO1P/Codename-Micagram-(Unigram-Redesign)?node-id=178%3A100150&viewport=394%2C48%2C0.87) - My work for the [January contest for Designers](https://contest.com/win11-design) from the Telegram team
+      - Status: **Finished**
+      - Place: **2th** *(2000$)*
 
 </p></details>
 
