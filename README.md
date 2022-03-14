@@ -1,4 +1,4 @@
-<h3 align="center">Welcome to my Github Page! 👋</h3>
+<h3 align="center">Welcome to my Github Profile! 👋</h3>
 
 ***
 
@@ -8,42 +8,41 @@
 -  🎂 I'm **18** years old
    - 📆 I celebrate my birthday on **June 22**
 - 🏠 I'm currently living in **Gomel, Belarus** *(My hometown)*
-  - 🚄 I dream of moving to **St. Petersburg, Russia**
+  - 🚄 I dream of moving to **St. Petersburg, Russia** or at least to **Moscow, Russia**
 - 🏫 I am currently studying at **Gomel State University**
   - **Faculty:** Mathematics and Programming Technologies
   - **Specialty:** Applied Informatics
   - Enrolled in **full-time** training
 - 🗣 My primary language is **Russian**, but in most cases, I'm trying to speak **English** *(Approximate level: B1)*
-- 💕 I am very passionate about **music** and **mobile photography**, as well as **creating beautiful interfaces** and **interesting projects on Python**
+- 💕 I am very passionate about **music** and **mobile photography**, as well as **creating beautiful interfaces** and **interesting projects**
 - 👨‍🎓 Got the **Github Student Developer Pack** on **October 1, 2020**
+- 💻 Using **MacBook Pro 13" 2020 (M1 - 16/512)**
 - 📷 Currently my profile picture is **Mirai Kuriyama** from **Kyoukai no Kanata**
 
 </p></details>
 
 <details><summary><strong>Some info about my activity</strong></summary><p>
 
-- 🔭 I’m currently working on [**Ghosty**](https://github.com/SecondThundeR/ghosty) project
 - 📚 I'm currently learning:
+  - **Go**
   - **JavaScript**
   - **Python**
 - ⌛ I've currently set on hold
    - **C#**
+   - **Ruby**
 - 🌱 I want to learn in the future:
-  - **HTML + CSS**
   - **JavaScript Things**
     - **TypeScript**
     - **Node.js, Electron, React, Angular.js, Vue**
-  - **Ren'Py**
 - 🏆 I've currently finished learning:
-   - **С++**
-   - **C**
-   - **Pascal**
-   - **Basic SQL**
+   - **C/С++/Pascal/SQL (Basics)**
 - 🚧 I've contributed in:
    - [**ru.javascript.info**](https://github.com/javascript-tutorial/ru.javascript.info/pulls?q=is%3Apr+author%3ASecondThundeR)
    - [**archinstall**](https://github.com/archlinux/archinstall/pulls?q=is%3Apr+author%3ASecondThundeR)
    - [**Catogram**](https://github.com/Catogram/Catogram/pulls?q=is%3Apr+author%3ASecondThundeR)
    - [**evobot**](https://github.com/eritislami/evobot/pulls?q=is%3Apr+author%3ASecondThundeR)
+   - [**windows-uwp**](https://github.com/MicrosoftDocs/windows-uwp/pulls?q=is%3Apr+author%3ASecondThundeR)
+   - [**brands-in-russia**](https://github.com/virae/brands-in-russia/pulls?q=is%3Apr+author%3ASecondThundeR)
 - 🛠 I've been working on such projects:
   - **Main Projects:**
      - [**Project Aether**](https://secondthunder.github.io) — My personal landing page, written on pure HTML/CSS/JS
@@ -87,6 +86,6 @@
 
 - 📫 The best way you can reach me:
   - ✈ **[Telegram](https://t.me/secondthunder)** or 📧 **Email - awayfromgalaxy@gmail.com**
-  - 🕖 My active time: **10 A.M. - 10 P.M.** *(UTC-3)*
+  - 🕖 My active time: **10 A.M. - 10 P.M.** *(UTC+3)*
 
 </p></details>
