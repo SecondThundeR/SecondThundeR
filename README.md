@@ -8,7 +8,7 @@
 -  🎂 I'm **18** years old
    - 📆 I celebrate my birthday on **June 22**
 - 🏠 I'm currently living in **Gomel, Belarus** *(My hometown)*
-  - 🚄 I dream of moving to **St. Petersburg, Russia** or at least to **Moscow, Russia**
+  - 🚄 I dream of moving somewhere
 - 🏫 I am currently studying at **Gomel State University**
   - **Faculty:** Mathematics and Programming Technologies
   - **Specialty:** Applied Informatics
