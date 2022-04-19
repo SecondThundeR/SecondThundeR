@@ -24,13 +24,14 @@
 <details><summary><strong>Some info about my activity</strong></summary><p>
 
 - 📚 I'm currently learning:
-  - **Go**
-  - **JavaScript**
+  - **Java**
   - **Python**
 - ⌛ I've currently set on hold
    - **C#**
-   - **Ruby**
+   - **Go**
+   - **JavaScript**
 - 🌱 I want to learn in the future:
+  - **Ruby**
   - **JavaScript Things**
     - **TypeScript**
     - **Node.js, Electron, React, Angular.js, Vue**
