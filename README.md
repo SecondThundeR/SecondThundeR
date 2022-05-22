@@ -87,8 +87,7 @@
   - **[Spotify](https://open.spotify.com/user/secondthunder)**
   - **[Code::Stats](https://codestats.net/users/AwayFromGalaxy)**
   - **[Shikimori](https://shikimori.one/SecondThundeR)**
-  - **[Discord](https://discord.com/users/156081219866591232)**
-    - If link isn't working: SecondThundeR#4467
+  - **[Discord](https://discord.com/users/156081219866591232)** *(If link isn't working: SecondThundeR#4467)*
 
 - 📫 The best way you can reach me:
   - ✈ **[Telegram](https://t.me/secondthunder)** or via 📧 **Email** - awayfromgalaxy@gmail.com
