@@ -17,7 +17,6 @@
 - 💕 I am very passionate about **music** and **mobile photography**, as well as **creating beautiful interfaces** and **interesting projects**
 - 👨‍🎓 Got the **Github Student Developer Pack** on **October 1, 2020**
 - 💻 Using **MacBook Pro 13" 2020 (M1 - 16/512)**
-- 📷 Currently my profile picture is **Mirai Kuriyama** from **Kyoukai no Kanata**
 
 </p></details>
 
