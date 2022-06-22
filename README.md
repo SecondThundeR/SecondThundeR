@@ -23,16 +23,19 @@
 <details><summary><strong>Some info about my activity</strong></summary><p>
 
 - 📚 I'm currently learning:
-  - **Python** *(Flask, Django)*
-  - **Ruby** *(Ruby on Rails)*
+  - **JavaScript**
+  - **JavaScript Things:**
+    - **TypeScript**
+    - **Node.js, React, Svelte**
 - ⌛ I've currently set on hold
    - **C#**
    - **Go**
+   - **Python** *(Flask, Django)*
+   - **Ruby** *(Ruby on Rails)*
    - **JavaScript**
 - 🌱 I want to learn in the future:
-  - **JavaScript Things**
-    - **TypeScript**
-    - **Node.js, Electron, React, Angular.js, Vue**
+  - **JavaScript Things:**
+    - **Electron, Vue**
 - ❌ I've currently stop learning:
    - **Java**
 - 🏆 I've currently finished learning:
