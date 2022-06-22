@@ -50,7 +50,7 @@
    - [**shikimori**](https://github.com/shikimori/shikimori/pulls?q=is%3Apr+author%3ASecondThundeR)
 - 🛠 I've been working on such projects:
   - **Main Projects:**
-     - [**Project Aether**]([https://secondthunder.github.io](https://github.com/SecondThundeR/secondthunder.github.io)) — My personal [landing page](https://secondthunder.github.io), written on pure HTML/CSS/JS
+     - [**Project Aether**](https://github.com/SecondThundeR/secondthunder.github.io) — My personal [landing page](https://secondthunder.github.io), written on pure HTML/CSS/JS
      - [***Scroball X***](https://github.com/SecondThundeR/Scroball-X) — Fork of [Scroball](https://github.com/peterjosling/scroball) by Peter Josling, where I made some changes to provide Google-like Material UI, Adless UX, Dark Theme, and many other visual improvements
        - Status: **Archived** 
      - [***DokiDoki-RenPy***](https://github.com/SecondThundeR/DokiDoki-RenPy) — Decompiled code of Original Doki Doki Literature Club *(non-Plus version)* for internal use in RenPy Launcher, e.g. modification or self-learning
