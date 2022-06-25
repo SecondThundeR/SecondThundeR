@@ -65,7 +65,7 @@
      - [***VK Reminder Bot***](https://github.com/SecondThundeR/vk-reminder-bot) - Just simple script for VK bot to remind something every hour with help of cronjobs
        - Status: **Archived**
      - [***SpotiChecker***](https://github.com/SecondThundeR/spotichecker) - A Python script to check for unavailable tracks in the "Liked Songs" section
-       - Status: **Not maintained**
+       - Status: **Archived**
      - [**Shikithon**](https://github.com/SecondThundeR/shikithon) - Yet another Python wrapper for Shikimori API
      - [**svelte-vite-tailwind**](https://github.com/SecondThundeR/svelte-vite-tailwind) - Simple template for using Svelte + Tailwind in Vite
      - [**anti-premium-stickers-bot**](https://github.com/SecondThundeR/anti-premium-stickers-bot) - A simple TypeScript bot for auto-deleting Telegram premium stickers based on grammY library
