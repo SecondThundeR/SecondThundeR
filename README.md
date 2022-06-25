@@ -48,6 +48,7 @@
    - [**windows-uwp**](https://github.com/MicrosoftDocs/windows-uwp/pulls?q=is%3Apr+author%3ASecondThundeR)
    - [**brands-in-russia**](https://github.com/virae/brands-in-russia/pulls?q=is%3Apr+author%3ASecondThundeR)
    - [**shikimori**](https://github.com/shikimori/shikimori/pulls?q=is%3Apr+author%3ASecondThundeR)
+   - [**aiogram**](https://github.com/aiogram/aiogram/pulls?q=is%3Apr+author%3ASecondThundeR)
 - 🛠 I've been working on such projects:
   - **Main Projects:**
      - [**Project Aether**](https://github.com/SecondThundeR/secondthunder.github.io) — My personal [landing page](https://secondthunder.github.io), written on pure HTML/CSS/JS
