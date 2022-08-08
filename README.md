@@ -48,6 +48,7 @@
    - [**brands-in-russia**](https://github.com/virae/brands-in-russia/pulls?q=is%3Apr+author%3ASecondThundeR)
    - [**shikimori**](https://github.com/shikimori/shikimori/pulls?q=is%3Apr+author%3ASecondThundeR)
    - [**aiogram**](https://github.com/aiogram/aiogram/pulls?q=is%3Apr+author%3ASecondThundeR)
+   - [**VKUI**](https://github.com/VKCOM/VKUI/pulls?q=is%3Apr+author%3ASecondThundeR)
 - 🛠 I've been working on such projects:
   - **Main Projects:**
      - [***Scroball X***](https://github.com/SecondThundeR/Scroball-X) — Fork of [Scroball](https://github.com/peterjosling/scroball) by Peter Josling, where I made some changes to provide Google-like Material UI, Adless UX, Dark Theme, and many other visual improvements
