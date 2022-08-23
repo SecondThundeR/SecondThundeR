@@ -4,16 +4,16 @@
 
 <details><summary><strong>Some info about me</strong></summary><p>
 
-- 🙋‍♂️ My name is **Vladislav** *(Владислав)*
+- 🙋‍♂️ My name is **Uladzislau** *(Владислав)*
 -  🎂 I'm **19** years old
    - 📆 I celebrate my birthday on **June 22**
-- 🏠 I'm currently living in **Gomel, Belarus** *(My hometown)*
-  <!-- - 🚄 I dream of moving somewhere -->
-- 🏫 I am currently studying at **Gomel State University**
+- 🏠 I'm currently living in **Homiel, Belarus** *(My hometown)*
+  <!-- - 🚄 I dream of moving somewhere (I guess not for now 😒)-->
+- 🏫 I am currently studying at **Francisk Skorina Homiel State University**
   - **Faculty:** Mathematics and Programming Technologies
   - **Specialty:** Applied Informatics
   - Enrolled in **full-time** training
-- 🗣 My primary language is **Russian**, but in most cases, I'm trying to speak **English** *(Approximate level: A2 - B1)*
+- 🗣 My primary language is **Russian**, but in most cases, I'm trying to use **English** *(Approximate level: A2 - B1)*
 - 💕 I am very passionate about **music** and **mobile photography**, as well as **creating beautiful interfaces** and **interesting projects**
 - 👨‍🎓 Got the **Github Student Developer Pack** on **October 1, 2020**
 - 💻 Using **MacBook Pro 13" 2020 (M1 - 16/512)**
