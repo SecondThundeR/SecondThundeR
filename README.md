@@ -62,7 +62,7 @@
      - [**Project Aether**](https://github.com/SecondThundeR/secondthunder.github.io) — My personal [landing page](https://secondthunder.github.io), written on pure HTML/CSS/JS
      - [**Shikithon**](https://github.com/SecondThundeR/shikithon) - Yet another Python wrapper for Shikimori API
      - [**svelte-vite-tailwind**](https://github.com/SecondThundeR/svelte-vite-tailwind) - Simple template for using Svelte + Tailwind in Vite
-     - [**anti-premium-stickers-bot**](https://github.com/SecondThundeR/anti-premium-stickers-bot) - A simple TypeScript bot for auto-deleting Telegram premium stickers based on grammY library
+     - [**anya-bot-ts**](https://github.com/SecondThundeR/anya-bot-ts) - A simple TypeScript bot for auto-deleting Telegram premium stickers based on grammY library
   - **Figma Projects:**
     - [***OrbitReader***](https://www.figma.com/file/GsnLhc0IVJnofPt6yw3JZW/Orbit) - A quick sketch for one unreleased app
       - Status: **Archived**
