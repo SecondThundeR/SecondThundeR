@@ -35,8 +35,6 @@
    - **Ruby** *(Ruby on Rails)*
    - **JavaScript Things:**
     - **Svelte**
-<!-- - 🌱 I want to learn in the future: -->
-<!-- - ❌ I've currently stop learning: -->
 - 🏆 I've currently finished learning:
    - **C/С++/Pascal/SQL/Python/JS (Basics)**
 - 🚧 I've contributed in:
@@ -97,3 +95,7 @@
   - 🕖 My active time: **12 A.M. - 10 P.M.** *(UTC+3)*
 
 </p></details>
+
+<!-- Commented lines -->
+<!-- - 🌱 I want to learn in the future: -->
+<!-- - ❌ I've currently stop learning: -->
