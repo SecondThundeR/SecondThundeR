@@ -49,8 +49,8 @@
    - [**shikimori/shikimori**](https://github.com/shikimori/shikimori/pulls?q=is%3Apr+author%3ASecondThundeR)
    - [**aiogram/aiogram**](https://github.com/aiogram/aiogram/pulls?q=is%3Apr+author%3ASecondThundeR)
    - [**VKCOM/VKUI**](https://github.com/VKCOM/VKUI/pulls?q=is%3Apr+author%3ASecondThundeR)
-   - [**ItzNeviKat/vkma-template**](https://github.com/ItzNeviKat/vkma-template?q=is%3Apr+author%3ASecondThundeR)
-   - [**ItzNeviKat/router**](https://github.com/ItzNeviKat/router?q=is%3Apr+author%3ASecondThundeR)
+   - [**ItzNeviKat/vkma-template**](https://github.com/ItzNeviKat/vkma-template/pulls?q=is%3Apr+author%3ASecondThundeR)
+   - [**ItzNeviKat/router**](https://github.com/ItzNeviKat/router/pulls?q=is%3Apr+author%3ASecondThundeR)
 - 🛠 I've been working on such projects:
   - **Dropped Projects:**
      - [***Scroball X***](https://github.com/SecondThundeR/Scroball-X) — Fork of [Scroball](https://github.com/peterjosling/scroball) by Peter Josling, where I made some changes to provide Google-like Material UI, Adless UX, Dark Theme, and many other visual improvements
