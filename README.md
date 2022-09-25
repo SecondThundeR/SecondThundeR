@@ -35,7 +35,7 @@
    - **Ruby** *(Ruby on Rails)*
    - **JavaScript Things:**
     - **Svelte**
-- 🌱 I want to learn in the future:
+<!-- - 🌱 I want to learn in the future: -->
 <!-- - ❌ I've currently stop learning: -->
 - 🏆 I've currently finished learning:
    - **C/С++/Pascal/SQL/Python/JS (Basics)**
