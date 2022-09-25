@@ -23,22 +23,22 @@
 <details><summary><strong>Some info about my activity</strong></summary><p>
 
 - 📚 I'm currently learning:
+  - **Java** *(Due to university requirements)*
   - **JavaScript**
   - **JavaScript Things:**
     - **TypeScript**
-    - **Node.js, React, Svelte**
+    - **Node.js, React**
 - ⌛ I've currently set on hold
    - **C#**
    - **Go**
    - **Python** *(Flask, Django)*
    - **Ruby** *(Ruby on Rails)*
+   - **JavaScript Things:**
+    - **Svelte**
 - 🌱 I want to learn in the future:
-  - **JavaScript Things:**
-    - **Electron, Vue**
-- ❌ I've currently stop learning:
-   - **Java**
+<!-- - ❌ I've currently stop learning: -->
 - 🏆 I've currently finished learning:
-   - **C/С++/Pascal/SQL (Basics)**
+   - **C/С++/Pascal/SQL/Python/JS (Basics)**
 - 🚧 I've contributed in:
    - [**javascript-tutorial/ru.javascript.info**](https://github.com/javascript-tutorial/ru.javascript.info/pulls?q=is%3Apr+author%3ASecondThundeR)
    - [**archlinux/archinstall**](https://github.com/archlinux/archinstall/pulls?q=is%3Apr+author%3ASecondThundeR)
