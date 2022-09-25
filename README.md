@@ -40,16 +40,17 @@
 - 🏆 I've currently finished learning:
    - **C/С++/Pascal/SQL (Basics)**
 - 🚧 I've contributed in:
-   - [**ru.javascript.info**](https://github.com/javascript-tutorial/ru.javascript.info/pulls?q=is%3Apr+author%3ASecondThundeR)
-   - [**archinstall**](https://github.com/archlinux/archinstall/pulls?q=is%3Apr+author%3ASecondThundeR)
-   - [**Catogram**](https://github.com/Catogram/Catogram/pulls?q=is%3Apr+author%3ASecondThundeR)
-   - [**evobot**](https://github.com/eritislami/evobot/pulls?q=is%3Apr+author%3ASecondThundeR)
-   - [**windows-uwp**](https://github.com/MicrosoftDocs/windows-uwp/pulls?q=is%3Apr+author%3ASecondThundeR)
-   - [**brands-in-russia**](https://github.com/virae/brands-in-russia/pulls?q=is%3Apr+author%3ASecondThundeR)
-   - [**shikimori**](https://github.com/shikimori/shikimori/pulls?q=is%3Apr+author%3ASecondThundeR)
-   - [**aiogram**](https://github.com/aiogram/aiogram/pulls?q=is%3Apr+author%3ASecondThundeR)
-   - [**VKUI**](https://github.com/VKCOM/VKUI/pulls?q=is%3Apr+author%3ASecondThundeR)
-   - [**vkma-template**](https://github.com/ItzNeviKat/vkma-template?q=is%3Apr+author%3ASecondThundeR)
+   - [**javascript-tutorial/ru.javascript.info**](https://github.com/javascript-tutorial/ru.javascript.info/pulls?q=is%3Apr+author%3ASecondThundeR)
+   - [**archlinux/archinstall**](https://github.com/archlinux/archinstall/pulls?q=is%3Apr+author%3ASecondThundeR)
+   - [**Catogram/Catogram**](https://github.com/Catogram/Catogram/pulls?q=is%3Apr+author%3ASecondThundeR)
+   - [**eritislami/evobot**](https://github.com/eritislami/evobot/pulls?q=is%3Apr+author%3ASecondThundeR)
+   - [**MicrosoftDocs/windows-uwp**](https://github.com/MicrosoftDocs/windows-uwp/pulls?q=is%3Apr+author%3ASecondThundeR)
+   - [**virae/brands-in-russia**](https://github.com/virae/brands-in-russia/pulls?q=is%3Apr+author%3ASecondThundeR)
+   - [**shikimori/shikimori**](https://github.com/shikimori/shikimori/pulls?q=is%3Apr+author%3ASecondThundeR)
+   - [**aiogram/aiogram**](https://github.com/aiogram/aiogram/pulls?q=is%3Apr+author%3ASecondThundeR)
+   - [**VKCOM/VKUI**](https://github.com/VKCOM/VKUI/pulls?q=is%3Apr+author%3ASecondThundeR)
+   - [**ItzNeviKat/vkma-template**](https://github.com/ItzNeviKat/vkma-template?q=is%3Apr+author%3ASecondThundeR)
+   - [**ItzNeviKat/router**](https://github.com/ItzNeviKat/router?q=is%3Apr+author%3ASecondThundeR)
 - 🛠 I've been working on such projects:
   - **Dropped Projects:**
      - [***Scroball X***](https://github.com/SecondThundeR/Scroball-X) — Fork of [Scroball](https://github.com/peterjosling/scroball) by Peter Josling, where I made some changes to provide Google-like Material UI, Adless UX, Dark Theme, and many other visual improvements
