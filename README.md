@@ -34,7 +34,7 @@
    - **Python** *(Flask, Django)*
    - **Ruby** *(Ruby on Rails)*
    - **JavaScript Things:**
-    - **Svelte**
+     - **Svelte**
 - 🏆 I've currently finished learning:
    - **C/С++/Pascal/SQL/Python/JS (Basics)**
 - 🚧 I've contributed in:
