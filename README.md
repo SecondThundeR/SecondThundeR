@@ -64,6 +64,7 @@
      - [**Shikithon**](https://github.com/SecondThundeR/shikithon) - Yet another Python wrapper for Shikimori API
      - [**svelte-vite-tailwind**](https://github.com/SecondThundeR/svelte-vite-tailwind) - Simple template for using Svelte + Tailwind in Vite
      - [**anya-bot-ts**](https://github.com/SecondThundeR/anya-bot-ts) - A simple TypeScript bot for auto-deleting Telegram premium stickers based on grammY library
+     - [**doesHaveBottleForVentura**](https://github.com/SecondThundeR/doesHaveBottleForVentura) - Python script for checking if your current installed Homebrew formulae have bottles with support for macOS Ventura
   - **Figma Projects:**
     - [***OrbitReader***](https://www.figma.com/file/GsnLhc0IVJnofPt6yw3JZW/Orbit) - A quick sketch for one unreleased app
       - Status: **Archived**
