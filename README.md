@@ -13,7 +13,7 @@
   - **Faculty:** Mathematics and Programming Technologies
   - **Specialty:** Applied Informatics
   - Enrolled in **full-time** training
-- 🗣 My primary language is **Russian**, but in most cases, I'm trying to use **English** *(Approximate level: A2 - B1)*
+- 🗣 My primary language is **Russian**, but in most cases, I'm trying to use **English** *(Approximate level: B1)*
 - 💕 I am very passionate about **music** and **mobile photography**, as well as **creating beautiful interfaces** and **interesting projects**
 - 👨‍🎓 Got the **Github Student Developer Pack** on **October 1, 2020**
 - 💻 Using **MacBook Pro 13" 2020 (M1 - 16/512)**
@@ -23,20 +23,14 @@
 <details><summary><strong>Some info about my activity</strong></summary><p>
 
 - 📚 I'm currently learning:
-  - **Java** *(Due to university requirements)*
   - **JavaScript**
   - **JavaScript Things:**
     - **TypeScript**
-    - **Node.js, React**
-- ⌛ I've currently set on hold
-   - **C#**
-   - **Go**
-   - **Python** *(Flask, Django)*
-   - **Ruby** *(Ruby on Rails)*
-   - **JavaScript Things:**
-     - **Svelte**
+    - **Node.js/React/Svelte/Next.js**
+- ❌ I've currently stop learning:
+   - **C#/Ruby**
 - 🏆 I've currently finished learning:
-   - **C/С++/Pascal/SQL/Python/JS (Basics)**
+   - **[Basics] C/C++/Java/Go/Pascal/SQL/Python/JavaScript**
 - 🚧 I've contributed in:
    - [**javascript-tutorial/ru.javascript.info**](https://github.com/javascript-tutorial/ru.javascript.info/pulls?q=is%3Apr+author%3ASecondThundeR)
    - [**archlinux/archinstall**](https://github.com/archlinux/archinstall/pulls?q=is%3Apr+author%3ASecondThundeR)
@@ -60,9 +54,9 @@
   - **Main Projects:**
      - [***DokiDoki-RenPy***](https://github.com/SecondThundeR/DokiDoki-RenPy) — Decompiled code of Original Doki Doki Literature Club *(non-Plus version)* for internal use in RenPy Launcher, e.g. modification or self-learning
        - Status: **Not maintained**
-     - [**Project Aether**](https://github.com/SecondThundeR/secondthunder.github.io) — My personal [landing page](https://secondthunder.github.io), written on pure HTML/CSS/JS
+     - [**Project Aether**](https://github.com/SecondThundeR/secondthunder.github.io) — My personal [landing page](https://secondthunder.github.io). Written with Astro
      - [**Shikithon**](https://github.com/SecondThundeR/shikithon) - Yet another Python wrapper for Shikimori API
-     - [**svelte-vite-tailwind**](https://github.com/SecondThundeR/svelte-vite-tailwind) - Simple template for using Svelte + Tailwind in Vite
+     - [**svelte-vite-tailwind**](https://github.com/SecondThundeR/svelte-vite-tailwind) - Simple template for using Svelte + Tailwind with Vite
      - [**anya-bot-ts**](https://github.com/SecondThundeR/anya-bot-ts) - A simple TypeScript bot for auto-deleting Telegram premium stickers based on grammY library
      - [**doesHaveBottleForVentura**](https://github.com/SecondThundeR/doesHaveBottleForVentura) - Python script for checking if your current installed Homebrew formulae have bottles with support for macOS Ventura
   - **Figma Projects:**
@@ -99,4 +93,4 @@
 
 <!-- Commented lines -->
 <!-- - 🌱 I want to learn in the future: -->
-<!-- - ❌ I've currently stop learning: -->
+<!-- - ⌛ I've currently set on hold -->
