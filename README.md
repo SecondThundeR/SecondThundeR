@@ -8,7 +8,6 @@
 -  🎂 I'm **20** years old
    - 📆 I celebrate my birthday on **June 22**
 - 🏠 I'm currently living in **Homiel, Belarus** *(My hometown)*
-  <!-- - 🚄 I dream of moving somewhere (I guess not for now 😒)-->
 - 🏫 I am currently studying at **Francisk Skorina Homiel State University**
   - **Faculty:** Mathematics and Programming Technologies
   - **Specialty:** Applied Informatics
@@ -48,16 +47,16 @@
    - [**SevereCloud/shikimori**](https://github.com/SevereCloud/shikimori/pulls?q=is%3Apr+author%3ASecondThundeR)
    - [**ecyrbe/zodios-react**](https://github.com/ecyrbe/zodios-react/pulls?q=is%3Apr+author%3ASecondThundeR)
 - 🛠 I've been working on such noticeable projects:
-   - [***Scroball X*** *(Archived)*](https://github.com/SecondThundeR/Scroball-X) — Fork of [Scroball](https://github.com/peterjosling/scroball) by Peter Josling, where I made some changes to provide Google-like Material UI, Adless UX, Dark Theme, and many other visual improvements
-   - [***DokiDoki-RenPy*** *(Not maintained)*](https://github.com/SecondThundeR/DokiDoki-RenPy) — Decompiled code of Original Doki Doki Literature Club *(non-Plus version)* for internal use in RenPy Launcher, e.g. modification or self-learning
+   - [***Scroball X***](https://github.com/SecondThundeR/Scroball-X) *(Archived)* — Fork of [Scroball](https://github.com/peterjosling/scroball) by Peter Josling, where I made some changes to provide Google-like Material UI, Adless UX, Dark Theme, and many other visual improvements
+   - [***DokiDoki-RenPy***](https://github.com/SecondThundeR/DokiDoki-RenPy) *(Not maintained)* — Decompiled code of Original Doki Doki Literature Club *(non-Plus version)* for internal use in RenPy Launcher, e.g. modification or self-learning
    - [**Project Aether**](https://github.com/SecondThundeR/secondthunder.github.io) — My personal [landing page](https://secondthunder.github.io). Built with Astro
    - [**shikithon**](https://github.com/SecondThundeR/shikithon) - Yet another Python wrapper for Shikimori API
    - [**anya-bot-ts**](https://github.com/SecondThundeR/anya-bot-ts) - A simple TypeScript bot for auto-deleting Telegram premium stickers based on grammY library
   - **Figma Projects:**
-    - [***OrbitReader*** *(Archived)*](https://www.figma.com/file/GsnLhc0IVJnofPt6yw3JZW/Orbit) - A quick sketch for one unreleased app
-    - [***Project Delta*** *(Archived)*](https://www.figma.com/file/Sk8zK5CWB7XjqRE0Uq5T04/Project-Delta) - Sketch and ideas for interesting player design
-    - [***Telegram Contest Work*** *(Finished - 4th place - 1000$)*](https://www.figma.com/file/9wgUy3OaqY1Tloz4jtCIuU/Telegram-Contest-(SecondThundeR)) - My work for the [July contest for Designers](https://contest.com/docs/android-design-21) from the Telegram team
-    - [***Unigram Redesign Contest*** *(Finished - 2th place - 2000$)*](https://www.figma.com/file/Ei6xUhhDvAshU06PAtGO1P/Codename-Micagram-(Unigram-Redesign)?node-id=178%3A100150&viewport=394%2C48%2C0.87) - My work for the [January contest for Designers](https://contest.com/win11-design) from the Telegram team
+    - [***OrbitReader***](https://www.figma.com/file/GsnLhc0IVJnofPt6yw3JZW/Orbit) *(Archived)* - A quick sketch for one unreleased app
+    - [***Project Delta***](https://www.figma.com/file/Sk8zK5CWB7XjqRE0Uq5T04/Project-Delta) *(Archived)* - Sketch and ideas for interesting player design
+    - [***Telegram Contest Work***](https://www.figma.com/file/9wgUy3OaqY1Tloz4jtCIuU/Telegram-Contest-(SecondThundeR)) *(Finished - 4th place - 1000$)* - My work for the [July contest for Designers](https://contest.com/docs/android-design-21) from the Telegram team
+    - [***Unigram Redesign Contest***](https://www.figma.com/file/Ei6xUhhDvAshU06PAtGO1P/Codename-Micagram-(Unigram-Redesign)?node-id=178%3A100150&viewport=394%2C48%2C0.87) *(Finished - 2th place - 2000$)* - My work for the [January contest for Designers](https://contest.com/win11-design) from the Telegram team
 
 </p></details>
 
@@ -75,7 +74,7 @@
 
 - 📫 The best way you can reach me:
   - ✈ **[Telegram](https://t.me/secondthunder)** or via 📧 **Email** - awayfromgalaxy@gmail.com
-  - 🕖 My active time: **12 A.M. - 10 P.M.** *(UTC+3)*
+  - 🕖 My active time: **12 A.M. - 8 P.M.** *(UTC+3)*
 
 </p></details>
 
