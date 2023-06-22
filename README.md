@@ -24,11 +24,11 @@
 
 - 📚 I'm currently learning:
   - **JavaScript**
-  - **JavaScript Things:**
-    - **TypeScript**
-    - **Node.js/React/Svelte/Next.js**
+  - **TypeScript**
+  - **Node.js/React/Next.js**
 - ❌ I've currently stop learning:
-   - **C#/Ruby**
+   - **C#**
+   - **Ruby**
 - 🏆 I've currently finished learning:
    - **[Basics] C/C++/Java/Go/Pascal/SQL/Python/JavaScript**
 - 🚧 I've contributed in:
@@ -45,33 +45,19 @@
    - [**ItzNeviKat/router**](https://github.com/ItzNeviKat/router/pulls?q=is%3Apr+author%3ASecondThundeR)
    - [**reactjs/reactjs.org**](https://github.com/reactjs/reactjs.org/pulls?q=is%3Apr+author%3ASecondThundeR)
    - [**motion-canvas/motion-canvas**](https://github.com/motion-canvas/motion-canvas/pulls?q=is%3Apr+author%3ASecondThundeR)
-- 🛠 I've been working on such projects:
-  - **Dropped Projects:**
-     - [***Scroball X***](https://github.com/SecondThundeR/Scroball-X) — Fork of [Scroball](https://github.com/peterjosling/scroball) by Peter Josling, where I made some changes to provide Google-like Material UI, Adless UX, Dark Theme, and many other visual improvements
-       - Status: **Archived** 
-     - [***Ghosty***](https://github.com/SecondThundeR/ghosty) — Some random bot for Discord which was created just for fun and for some educational purposes
-       - Status: **Archivied**
-     - [***SpotiChecker***](https://github.com/SecondThundeR/spotichecker) - A Python script to check for unavailable tracks in the "Liked Songs" section
-       - Status: **Archived**
-  - **Main Projects:**
-     - [***DokiDoki-RenPy***](https://github.com/SecondThundeR/DokiDoki-RenPy) — Decompiled code of Original Doki Doki Literature Club *(non-Plus version)* for internal use in RenPy Launcher, e.g. modification or self-learning
-       - Status: **Not maintained**
-     - [**Project Aether**](https://github.com/SecondThundeR/secondthunder.github.io) — My personal [landing page](https://secondthunder.github.io). Written with Astro
-     - [**Shikithon**](https://github.com/SecondThundeR/shikithon) - Yet another Python wrapper for Shikimori API
-     - [**svelte-vite-tailwind**](https://github.com/SecondThundeR/svelte-vite-tailwind) - Simple template for using Svelte + Tailwind with Vite
-     - [**anya-bot-ts**](https://github.com/SecondThundeR/anya-bot-ts) - A simple TypeScript bot for auto-deleting Telegram premium stickers based on grammY library
-     - [**doesHaveBottleForVentura**](https://github.com/SecondThundeR/doesHaveBottleForVentura) - Python script for checking if your current installed Homebrew formulae have bottles with support for macOS Ventura
+   - [**SevereCloud/shikimori**](https://github.com/SevereCloud/shikimori/pulls?q=is%3Apr+author%3ASecondThundeR)
+   - [**ecyrbe/zodios-react**](https://github.com/ecyrbe/zodios-react/pulls?q=is%3Apr+author%3ASecondThundeR)
+- 🛠 I've been working on such noticeable projects:
+   - [***Scroball X*** *(Archived)*](https://github.com/SecondThundeR/Scroball-X) — Fork of [Scroball](https://github.com/peterjosling/scroball) by Peter Josling, where I made some changes to provide Google-like Material UI, Adless UX, Dark Theme, and many other visual improvements
+   - [***DokiDoki-RenPy*** *(Not maintained)*](https://github.com/SecondThundeR/DokiDoki-RenPy) — Decompiled code of Original Doki Doki Literature Club *(non-Plus version)* for internal use in RenPy Launcher, e.g. modification or self-learning
+   - [**Project Aether**](https://github.com/SecondThundeR/secondthunder.github.io) — My personal [landing page](https://secondthunder.github.io). Built with Astro
+   - [**shikithon**](https://github.com/SecondThundeR/shikithon) - Yet another Python wrapper for Shikimori API
+   - [**anya-bot-ts**](https://github.com/SecondThundeR/anya-bot-ts) - A simple TypeScript bot for auto-deleting Telegram premium stickers based on grammY library
   - **Figma Projects:**
-    - [***OrbitReader***](https://www.figma.com/file/GsnLhc0IVJnofPt6yw3JZW/Orbit) - A quick sketch for one unreleased app
-      - Status: **Archived**
-    - [***Project Delta***](https://www.figma.com/file/Sk8zK5CWB7XjqRE0Uq5T04/Project-Delta) - Sketch and ideas for interesting player design
-      - Status: **Archivied**
-    - [***Telegram Contest Work***](https://www.figma.com/file/9wgUy3OaqY1Tloz4jtCIuU/Telegram-Contest-(SecondThundeR)) - My work for the [July contest for Designers](https://contest.com/docs/android-design-21) from the Telegram team
-      - Status: **Finished**
-      - Place: **4th** *(1000$)*
-    - [***Unigram Redesign Contest***](https://www.figma.com/file/Ei6xUhhDvAshU06PAtGO1P/Codename-Micagram-(Unigram-Redesign)?node-id=178%3A100150&viewport=394%2C48%2C0.87) - My work for the [January contest for Designers](https://contest.com/win11-design) from the Telegram team
-      - Status: **Finished**
-      - Place: **2th** *(2000$)*
+    - [***OrbitReader*** *(Archived)*](https://www.figma.com/file/GsnLhc0IVJnofPt6yw3JZW/Orbit) - A quick sketch for one unreleased app
+    - [***Project Delta*** *(Archived)*](https://www.figma.com/file/Sk8zK5CWB7XjqRE0Uq5T04/Project-Delta) - Sketch and ideas for interesting player design
+    - [***Telegram Contest Work*** *(Finished - 4th place - 1000$)*](https://www.figma.com/file/9wgUy3OaqY1Tloz4jtCIuU/Telegram-Contest-(SecondThundeR)) - My work for the [July contest for Designers](https://contest.com/docs/android-design-21) from the Telegram team
+    - [***Unigram Redesign Contest*** *(Finished - 2th place - 2000$)*](https://www.figma.com/file/Ei6xUhhDvAshU06PAtGO1P/Codename-Micagram-(Unigram-Redesign)?node-id=178%3A100150&viewport=394%2C48%2C0.87) - My work for the [January contest for Designers](https://contest.com/win11-design) from the Telegram team
 
 </p></details>
 
