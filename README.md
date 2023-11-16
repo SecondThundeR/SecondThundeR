@@ -22,14 +22,14 @@
 <details><summary><strong>Some info about my activity</strong></summary><p>
 
 - 📚 I'm currently learning:
-  - **JavaScript**
-  - **TypeScript**
-  - **Node.js/React/Next.js**
+  - **Node.js/Deno/Bun**
+  - **Next.js (App Router)**
 - ❌ I've currently stop learning:
    - **C#**
    - **Ruby**
 - 🏆 I've currently finished learning:
    - **[Basics] C/C++/Java/Go/Pascal/SQL/Python/JavaScript**
+   - **TypeScript/React/Next.js (Pages Router)**
 - 🚧 I've contributed in:
    - [**javascript-tutorial/ru.javascript.info**](https://github.com/javascript-tutorial/ru.javascript.info/pulls?q=is%3Apr+author%3ASecondThundeR)
    - [**archlinux/archinstall**](https://github.com/archlinux/archinstall/pulls?q=is%3Apr+author%3ASecondThundeR)
@@ -47,13 +47,15 @@
    - [**SevereCloud/shikimori**](https://github.com/SevereCloud/shikimori/pulls?q=is%3Apr+author%3ASecondThundeR)
    - [**ecyrbe/zodios-react**](https://github.com/ecyrbe/zodios-react/pulls?q=is%3Apr+author%3ASecondThundeR)
    - [**mantinedev/mantine**](https://github.com/mantinedev/mantine/pulls?q=is%3Apr+author%3ASecondThundeR)
-- 🛠 I've been working on such noticeable projects:
+- 🛠 I've been working on such "noticeable" projects:
    - [***Scroball X***](https://github.com/SecondThundeR/Scroball-X) *(Archived)* — Fork of [Scroball](https://github.com/peterjosling/scroball) by Peter Josling, where I made some changes to provide Google-like Material UI, Adless UX, Dark Theme, and many other visual improvements
    - [***DokiDoki-RenPy***](https://github.com/SecondThundeR/DokiDoki-RenPy) *(Not maintained)* — Decompiled code of Original Doki Doki Literature Club *(non-Plus version)* for internal use in RenPy Launcher, e.g. modification or self-learning
    - [**Project Aether**](https://github.com/SecondThundeR/secondthunder.github.io) — My personal [landing page](https://secondthunder.github.io). Built with Astro
    - [**shikithon**](https://github.com/SecondThundeR/shikithon) - Yet another Python wrapper for Shikimori API
    - [**anya-bot-ts**](https://github.com/SecondThundeR/anya-bot-ts) - A simple TypeScript bot for auto-deleting Telegram premium stickers based on grammY library
-  - **Figma Projects:**
+   - [**Otaquiz**](https://github.com/SecondThundeR/otaquiz) - Otaku + Quiz = Qtaquiz (Anime quiz for guessing title name based on randomly selected screenshots. Built with T3 Stack, powered by Shikimori API)
+   - [**deko-voice-bot**](https://github.com/SecondThundeR/deko-voice-bot) - A TypeScript bot for sending [deko's](https://liquipedia.net/counterstrike/Deko) phrases using Inline Query method
+  - **Outdated and inactive Figma Projects:**
     - [***OrbitReader***](https://www.figma.com/file/GsnLhc0IVJnofPt6yw3JZW/Orbit) *(Archived)* - A quick sketch for one unreleased app
     - [***Project Delta***](https://www.figma.com/file/Sk8zK5CWB7XjqRE0Uq5T04/Project-Delta) *(Archived)* - Sketch and ideas for interesting player design
     - [***Telegram Contest Work***](https://www.figma.com/file/9wgUy3OaqY1Tloz4jtCIuU/Telegram-Contest-(SecondThundeR)) *(Finished - 4th place - 1000$)* - My work for the [July contest for Designers](https://contest.com/docs/android-design-21) from the Telegram team
