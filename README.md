@@ -8,12 +8,13 @@
 -  🎂 I'm **20** years old
    - 📆 I celebrate my birthday on **June 22**
 - 🏠 I'm currently living in **Homiel, Belarus** *(My hometown)*
-- 🏫 I am currently studying at **Francisk Skorina Homiel State University**
+- 🏫 I'm currently studying at **Francisk Skorina Homiel State University**
   - **Faculty:** Mathematics and Programming Technologies
   - **Specialty:** Applied Informatics
   - Enrolled in **full-time** training
+- 🧑‍💻 I'm currently working at [Modsen](https://modsen-software.com) as a Junior Software Engineer (React Developer)
 - 🗣 My primary language is **Russian**, but in most cases, I'm trying to use **English** *(Approximate level: B1)*
-- 💕 I am very passionate about **music** and **mobile photography**, as well as **creating beautiful interfaces** and **interesting projects**
+- 💕 I'm very passionate about **music** and **mobile photography**, as well as **creating beautiful interfaces** and **interesting projects**
 - 👨‍🎓 Got the **Github Student Developer Pack** on **October 1, 2020**
 - 💻 Using **MacBook Pro 13" 2020 (M1 - 16/512)**
 
@@ -22,14 +23,13 @@
 <details><summary><strong>Some info about my activity</strong></summary><p>
 
 - 📚 I'm currently learning:
-  - **Node.js/Deno/Bun**
-  - **Next.js (App Router)**
+  - **React (Advanced)**
 - ❌ I've currently stop learning:
    - **C#**
    - **Ruby**
 - 🏆 I've currently finished learning:
-   - **[Basics] C/C++/Java/Go/Pascal/SQL/Python/JavaScript**
-   - **TypeScript/React/Next.js (Pages Router)**
+   - **[Basics] C / C++ / Java / Go / Pascal / SQL / Python / Node / Deno / Bun**
+   - **[Intermediate] JavaScript / TypeScript / React / Next.js (App/Pages Router)**
 - 🚧 I've contributed in:
    - [**javascript-tutorial/ru.javascript.info**](https://github.com/javascript-tutorial/ru.javascript.info/pulls?q=is%3Apr+author%3ASecondThundeR)
    - [**archlinux/archinstall**](https://github.com/archlinux/archinstall/pulls?q=is%3Apr+author%3ASecondThundeR)
