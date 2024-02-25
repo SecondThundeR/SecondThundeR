@@ -12,7 +12,7 @@
   - **Faculty:** Mathematics and Programming Technologies
   - **Specialty:** Applied Informatics
   - Enrolled in **full-time** training
-- 🧑‍💻 I'm currently working at [Modsen](https://modsen-software.com) as a Junior Software Engineer (React Developer)
+- 🧑‍💻 I'm currently working at [Modsen](https://modsen-software.com) as a Front-end Software Engineer (Using React)
 - 🗣 My primary language is **Russian**, but in most cases, I'm trying to use **English** *(Approximate level: B1)*
 - 💕 I'm very passionate about **music** and **mobile photography**, as well as **creating beautiful interfaces** and **interesting projects**
 - 👨‍🎓 Got the **Github Student Developer Pack** on **October 1, 2020**
@@ -52,8 +52,8 @@
    - [***DokiDoki-RenPy***](https://github.com/SecondThundeR/DokiDoki-RenPy) *(Not maintained)* — Decompiled code of Original Doki Doki Literature Club *(non-Plus version)* for internal use in RenPy Launcher, e.g. modification or self-learning
    - [**Project Aether**](https://github.com/SecondThundeR/secondthunder.github.io) — My personal [landing page](https://secondthunder.github.io). Built with Astro
    - [***shikithon***](https://github.com/SecondThundeR/shikithon) *(Not maintained)* - Yet another Python wrapper for Shikimori API
-   - [**anya-bot-ts**](https://github.com/SecondThundeR/anya-bot-ts) - A simple TypeScript bot for auto-deleting Telegram premium stickers based on grammY library
-   - [**Otaquiz**](https://github.com/SecondThundeR/otaquiz) - Otaku + Quiz = Qtaquiz (Anime quiz for guessing title name based on randomly selected screenshots. Built with T3 Stack, powered by Shikimori API)
+   - [**anya-bot-ts**](https://github.com/SecondThundeR/anya-bot-ts) *(Not maintained)* - A simple TypeScript bot for auto-deleting Telegram premium stickers based on grammY library
+   - [**Otaquiz**](https://github.com/SecondThundeR/otaquiz) *(Suspended)* - Otaku + Quiz = Qtaquiz (Anime quiz for guessing title name based on randomly selected screenshots. Built with T3 Stack, powered by Shikimori API)
    - [**deko-voice-bot**](https://github.com/SecondThundeR/deko-voice-bot) - A TypeScript bot for sending [deko's](https://liquipedia.net/counterstrike/Deko) phrases using Inline Query method
   - **Outdated and inactive Figma Projects:**
     - [***OrbitReader***](https://www.figma.com/file/GsnLhc0IVJnofPt6yw3JZW/Orbit) *(Archived)* - A quick sketch for one unreleased app
