@@ -33,10 +33,7 @@
 - 🚧 I've contributed in:
    - [**javascript-tutorial/ru.javascript.info**](https://github.com/javascript-tutorial/ru.javascript.info/pulls?q=is%3Apr+author%3ASecondThundeR)
    - [**archlinux/archinstall**](https://github.com/archlinux/archinstall/pulls?q=is%3Apr+author%3ASecondThundeR)
-   - [**Catogram/Catogram**](https://github.com/Catogram/Catogram/pulls?q=is%3Apr+author%3ASecondThundeR)
-   - [**eritislami/evobot**](https://github.com/eritislami/evobot/pulls?q=is%3Apr+author%3ASecondThundeR)
    - [**MicrosoftDocs/windows-uwp**](https://github.com/MicrosoftDocs/windows-uwp/pulls?q=is%3Apr+author%3ASecondThundeR)
-   - [**virae/brands-in-russia**](https://github.com/virae/brands-in-russia/pulls?q=is%3Apr+author%3ASecondThundeR)
    - [**shikimori/shikimori**](https://github.com/shikimori/shikimori/pulls?q=is%3Apr+author%3ASecondThundeR)
    - [**aiogram/aiogram**](https://github.com/aiogram/aiogram/pulls?q=is%3Apr+author%3ASecondThundeR)
    - [**VKCOM/VKUI**](https://github.com/VKCOM/VKUI/pulls?q=is%3Apr+author%3ASecondThundeR)
@@ -47,6 +44,7 @@
    - [**SevereCloud/shikimori**](https://github.com/SevereCloud/shikimori/pulls?q=is%3Apr+author%3ASecondThundeR)
    - [**ecyrbe/zodios-react**](https://github.com/ecyrbe/zodios-react/pulls?q=is%3Apr+author%3ASecondThundeR)
    - [**mantinedev/mantine**](https://github.com/mantinedev/mantine/pulls?q=is%3Apr+author%3ASecondThundeR)
+   - *and many others...*
 - 🛠 I've been working on such "noticeable" projects:
    - [***Scroball X***](https://github.com/SecondThundeR/Scroball-X) *(Archived)* — Fork of [Scroball](https://github.com/peterjosling/scroball) by Peter Josling, where I made some changes to provide Google-like Material UI, Adless UX, Dark Theme, and many other visual improvements
    - [***DokiDoki-RenPy***](https://github.com/SecondThundeR/DokiDoki-RenPy) *(Not maintained)* — Decompiled code of Original Doki Doki Literature Club *(non-Plus version)* for internal use in RenPy Launcher, e.g. modification or self-learning
