@@ -8,10 +8,9 @@
 -  🎂 I'm **21** years old
    - 📆 I celebrate my birthday on **June 22**
 - 🏠 I'm currently living in **Homiel, Belarus** *(My hometown)*
-- 🏫 I'm currently studying at **Francisk Skorina Homiel State University**
+- 🏫 Graduated from the **Francisk Skorina Homiel State University**
   - **Faculty:** Mathematics and Programming Technologies
   - **Specialty:** Applied Informatics
-  - Enrolled in **full-time** training
 - 🧑‍💻 I'm currently working at [Modsen](https://modsen-software.com) as a Front-end Software Engineer (Using React)
 - 🗣 My primary language is **Russian**, but in most cases, I'm trying to use **English** *(Approximate level: B1)*
 - 💕 I'm very passionate about **music** and **mobile photography**, as well as **creating beautiful interfaces** and **interesting projects**
@@ -24,6 +23,8 @@
 
 - 📚 I'm currently learning:
   - **React (Advanced)**
+  - **Bun**
+  - **[Basics] Rust**
 - ❌ I've currently stop learning:
    - **C#**
    - **Ruby**
@@ -78,7 +79,3 @@
   - 🕖 My active time: **12 A.M. - 8 P.M.** *(UTC+3)*
 
 </p></details>
-
-<!-- Commented lines -->
-<!-- - 🌱 I want to learn in the future: -->
-<!-- - ⌛ I've currently set on hold -->
