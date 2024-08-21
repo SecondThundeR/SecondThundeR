@@ -23,10 +23,9 @@
 
 - 📚 I'm currently learning:
   - **React (Advanced)**
-  - **Bun**
-  - **[Basics] Rust**
 - ❌ I've currently stop learning:
    - **C#**
+   - **Rust**
    - **Ruby**
 - 🏆 I've currently finished learning:
    - **[Basics] C / C++ / Java / Go / Pascal / SQL / Python / Node / Deno / Bun**
