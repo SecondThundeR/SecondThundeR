@@ -49,7 +49,7 @@
    - [***Scroball X***](https://github.com/SecondThundeR/Scroball-X) *(Archived)* — Fork of [Scroball](https://github.com/peterjosling/scroball) by Peter Josling, where I made some changes to provide Google-like Material UI, Adless UX, Dark Theme, and many other visual improvements
    - [***DokiDoki-RenPy***](https://github.com/SecondThundeR/DokiDoki-RenPy) *(Not maintained)* — Decompiled code of Original Doki Doki Literature Club *(non-Plus version)* for internal use in RenPy Launcher, e.g. modification or self-learning
    - [**Project Aether**](https://github.com/SecondThundeR/secondthunder.github.io) — My personal [landing page](https://secondthunder.github.io). Built with Astro
-   - [***shikithon***](https://github.com/SecondThundeR/shikithon) *(Not maintained)* - Yet another Python wrapper for Shikimori API
+   - [***shikithon***](https://github.com/SecondThundeR/shikithon) *(Archived)* - Yet another Python wrapper for Shikimori API
    - [**anya-bot-ts**](https://github.com/SecondThundeR/anya-bot-ts) *(Not maintained)* - A simple Telegram bot for auto-deleting Telegram premium stickers based on grammY library
    - [**Otaquiz**](https://github.com/SecondThundeR/otaquiz) *(Suspended)* - Otaku + Quiz = Qtaquiz (Anime quiz for guessing title name based on randomly selected screenshots. Built with T3 Stack, powered by Shikimori API)
    - [**deko-voice-bot**](https://github.com/SecondThundeR/deko-voice-bot) - Telegram bot for sending [deko's](https://liquipedia.net/counterstrike/Deko) phrases using Inline Query method. Written in TypeScript with grammY
