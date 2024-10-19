@@ -11,25 +11,21 @@
 - 🏫 Graduated from the **Francisk Skorina Homiel State University**
   - **Faculty:** Mathematics and Programming Technologies
   - **Specialty:** Applied Informatics
-- 🧑‍💻 I'm currently working at [Modsen](https://modsen-software.com) as a Front-end Software Engineer (Using React)
+<!-- - 🧑‍💻 I'm currently working at [Modsen](https://modsen-software.com) as a Front-end Software Engineer (Using React) -->
 - 🗣 My primary language is **Russian**, but in most cases, I'm trying to use **English** *(Approximate level: B1)*
 - 💕 I'm very passionate about **music** and **mobile photography**, as well as **creating beautiful interfaces** and **interesting projects**
-- 👨‍🎓 Got the **Github Student Developer Pack** on **October 1, 2020**
 - 💻 Using **MacBook Pro 13" 2020 (M1 - 16/512)**
 
 </p></details>
 
 <details><summary><strong>Some info about my activity</strong></summary><p>
 
-- 📚 I'm currently learning:
-  - **React (Advanced)**
-- ❌ I've currently stop learning:
-   - **C#**
-   - **Rust**
-   - **Ruby**
+<!-- - 📚 I'm currently learning: -->
+<!-- - ❌ I've currently stop learning: -->
 - 🏆 I've currently finished learning:
-   - **[Basics] C / C++ / Java / Go / Pascal / SQL / Python / Node / Deno / Bun**
+   - **[Basics] C / C++ / Java / Go / Pascal / SQL / Python / Rust / Node / Deno / Bun**
    - **[Intermediate] JavaScript / TypeScript / React / Next.js (App/Pages Router)**
+   - **[Advanced] React**
 - 🚧 I've contributed in:
    - [**javascript-tutorial/ru.javascript.info**](https://github.com/javascript-tutorial/ru.javascript.info/pulls?q=is%3Apr+author%3ASecondThundeR)
    - [**archlinux/archinstall**](https://github.com/archlinux/archinstall/pulls?q=is%3Apr+author%3ASecondThundeR)
@@ -73,8 +69,8 @@
   - **[Shikimori](https://shikimori.one/SecondThundeR)**
   - **[Discord](https://discord.com/users/156081219866591232)**
 
-- 📫 The best way you can reach me:
-  - ✈ **[Telegram](https://t.me/secondthunder)** or via 📧 **Email** - awayfromgalaxy@gmail.com
-  - 🕖 My active time: **12 A.M. - 8 P.M.** *(UTC+3)*
+<!-- - 📫 The best way you can reach me: -->
+  <!-- - ✈ **[Telegram](https://t.me/secondthunder)** or via 📧 **Email** - awayfromgalaxy@gmail.com -->
+  <!-- - 🕖 My active time: **12 A.M. - 8 P.M.** *(UTC+3)* -->
 
 </p></details>
