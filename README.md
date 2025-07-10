@@ -5,7 +5,7 @@
 <details><summary><strong>Some info about me</strong></summary><p>
 
 - 🙋‍♂️ My name is **Uladzislau** *(Владислав)*
--  🎂 I'm **21** years old
+-  🎂 I'm **22** years old
    - 📆 I celebrate my birthday on **June 22**
 - 🏠 I'm currently living in **Homiel, Belarus** *(My hometown)*
 - 🏫 Graduated from the **Francisk Skorina Homiel State University**
